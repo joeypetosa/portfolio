@@ -36,7 +36,7 @@ params:
   defaultTheme: auto
   disableThemeToggle: false
   
-  ShowToc: true
+  ShowToc: false
   TocOpen: false
   ShowBreadCrumbs: true
   ShowReadingTime: false
