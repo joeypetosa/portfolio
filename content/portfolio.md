@@ -3,7 +3,7 @@ title: "Portfolio"
 url: "/portfolio/"
 ---
 
-A collection of my work.
+
 
 ---
 
@@ -27,9 +27,8 @@ A collection of my work.
 - [2021 ISB Virtual Speaker Series: Dr. Rod Hochman](https://isbscience.org/news/2021/01/28/how-will-healthcare-and-scientific-research-be-different-in-a-post-pandemic-world/)
 - [2020 ISB Virtual Microbiome Series](https://isbscience.org/microbiome2020/)
 - [2020 ISB Virtual Microbiome Series: Dr. Eric Alm](https://isbscience.org/news/2020/10/08/mining-sewage-to-track-population-health/)
-- [2020 Virtual Speaker Series: Future of Health](https://isbscience.org/2020/)
+- [2020 Virtual Speaker Series: Future of Health](https://isbscience.org/2020/)  
 
----
 
 ### In-Person Events  
 {{< figure align=left src="https://assets.joeypetosa.com/em_icon.png" width="200" height="200" alt="in-person logo" >}} 
