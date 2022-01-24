@@ -1,7 +1,6 @@
 ---
 title: "About"
-url: "/about"
-ShowToc: false
+url: "/about/"
 ---
 
 # About me
