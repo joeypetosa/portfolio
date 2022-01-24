@@ -8,7 +8,7 @@ A collection of my work.
 ---
 
 ## Data Analytics  
-![Data Analytics]("https://assets.joeypetosa.com/da_icon.png")  
+{{< figure align=left src="https://assets.joeypetosa.com/da_icon.png" width="200" height="200" title="data analytics" >}}  
 
 - [Bellabeat Case Study with R](https://joeypetosa.github.io/bellabeat_cs/)  
 
@@ -17,7 +17,7 @@ A collection of my work.
 ## Event Production  
 
 ### Virtual Events  
-{{< figure align=left src="https://assets.joeypetosa.com/ve_icon.png" width="200" height="200">}}
+{{< figure align=left src="https://assets.joeypetosa.com/ve_icon.png" width="200" height="200" title="data analytics" >}}
 
 - [2021 ISB Virtual Microbiome Series](https://isbscience.org/microbiome2021/)
 - [2021 ISB Virtual Microbiome Series: Dr. Jack Gilbert](https://www.youtube.com/watch?v=3sSPX2M2Uoc)
@@ -32,5 +32,5 @@ A collection of my work.
 ---
 
 ### In-Person Events  
-![Virtual Events]("https://assets.joeypetosa.com/em_icon.png")  
+{{< figure align=left src="https://assets.joeypetosa.com/em_icon.png" width="200" height="200" title="in-person events" >}} 
 
