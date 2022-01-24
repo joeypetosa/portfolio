@@ -10,5 +10,3 @@ cover:
 
 
 This is an about me section.
-
-{{< figure align=center src="https://assets.joeypetosa.com/cover_qa.png" alt="kerry park" >}}  
