@@ -3,8 +3,6 @@ title: "Portfolio"
 url: "/portfolio/"
 ---
 
-# Portfolio
-
 A collection of my work.
 
 ---

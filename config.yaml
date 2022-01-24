@@ -32,13 +32,12 @@ menu:
 params:
   env: production
   keywords: [Portfolio, DataAnalyis, R, EventManagement, Programming]
-  author: "Joey Petosa"
   defaultTheme: auto
   disableThemeToggle: false
   
   ShowToc: false
   TocOpen: false
-  ShowBreadCrumbs: false
+  ShowBreadCrumbs: true
   ShowReadingTime: false
   ShowPostNavLinks: true
   ShowShareButtons: false
@@ -47,6 +46,7 @@ params:
   
   homeInfoParams:
     Content: "event manager, data analyst, footballer"
+    title: "joey petosa"
   
   profileMode:
     enabled: true
