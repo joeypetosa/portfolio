@@ -38,7 +38,7 @@ params:
   
   ShowToc: false
   TocOpen: false
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowReadingTime: false
   ShowPostNavLinks: true
   ShowShareButtons: false
@@ -46,7 +46,6 @@ params:
   displayFullLangName: true
   
   homeInfoParams:
-    Title: "Joey Petosa"
     Content: "event manager, data analyst, footballer"
   
   profileMode:
