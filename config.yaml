@@ -2,21 +2,73 @@ theme: "hugo-PaperMod"
 baseURL: https://joeypetosa.com/
 languageCode: en-us
 title: Joey Petosa
-params:
-    profileMode:
-        enabled: true
-        title: "joey petosa"
-        subtitle: "event manager, data analyst, lifelong learner"
-        imageUrl: "https://assets.joeypetosa.com/jp_profile.png"
-        imageTitle: "me" # optional
-        buttons:
-          - name: About
-            url: "/about/"
-          - name: Portfolio
-            url: "/portfolio/"
 
-    socialIcons: # optional
-      - name: "LinkedIn"
-        url: "https://www.linkedin.com/in/joey-petosa/"
-      - name: "Github"
-        url: "https://github.com/joeypetosa/"
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+googleAnalytics: G-XNLPGFEEDW
+
+menu:
+  main:
+    - name: about
+      url: "/about/"
+      weight: 1
+    - name: portfolio
+      url: "/portfolio/"
+      weight: 2
+    - name: archive
+      url: "/archive/"
+      weight: 3
+    - name: categories
+      url: "/categories/"
+      weight: 4
+    - name: search
+      url: "/search/"
+      weight: 5
+
+params:
+  env: production
+  keywords: [Portfolio, DataAnalyis, R, EventManagement, Programming]
+  author: "Joey Petosa"
+  defaultTheme: auto
+  disableThemeToggle: true
+  
+  ShowToc: true
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowReadingTime: false
+  ShowPostNavLinks: true
+  ShowShareButtons: false
+  ShowCodeCopyButtons: true
+  displayFullLangName: true
+  
+  homeInfoParams:
+    Title: "Joey Petosa"
+    Content: "event manager, data analyst, footballer"
+  
+  profileMode:
+    enabled: true
+    title: "joey petosa"
+    subtitle: "event manager, data analyst, footballer"
+    imageUrl: "https://assets.joeypetosa.com/jp_profile.png"
+    imageTitle: "me" # optional
+
+  socialIcons:
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/joey-petosa/"
+    - name: "Github"
+      url: "https://github.com/joeypetosa/"
+  
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
