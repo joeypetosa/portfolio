@@ -7,7 +7,7 @@ params:
         enabled: true
         title: "joey petosa"
         subtitle: "event manager, data analyst, lifelong learner"
-        imageUrl: "https://assets.joeypetosa.com/jp_profile.jpg"
+        imageUrl: "https://assets.joeypetosa.com/jp_profile.png"
         imageTitle: "me" # optional
         buttons:
           - name: About
