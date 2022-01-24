@@ -2,3 +2,23 @@ theme: "hugo-PaperMod"
 baseURL: https://joeypetosa.com/
 languageCode: en-us
 title: Joey Petosa
+params:
+    profileMode:
+        enabled: true
+        title: "joey petosa"
+        subtitle: "event manager, data analyst, lifelong learner"
+        imageUrl: "https://assets.joeypetosa.com/jp_profile.jpg"
+        imageTitle: "me" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        buttons:
+            - name: About
+            url: "/about/"
+            - name: Portfolio
+            url: "/portfolio/"
+
+    socialIcons: # optional
+        - name: "LinkedIn"
+            url: "https://www.linkedin.com/in/joey-petosa/"
+        - name: "Github"
+            url: "https://github.com/joeypetosa/"
