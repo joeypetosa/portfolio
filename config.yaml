@@ -1,7 +1,7 @@
 theme: "hugo-PaperMod"
 baseURL: https://joeypetosa.com/
 languageCode: en-us
-title: Joey Petosa
+title: joey petosa
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -34,7 +34,7 @@ params:
   keywords: [Portfolio, DataAnalyis, R, EventManagement, Programming]
   author: "Joey Petosa"
   defaultTheme: auto
-  disableThemeToggle: true
+  disableThemeToggle: false
   
   ShowToc: true
   TocOpen: false
