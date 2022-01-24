@@ -9,8 +9,6 @@ params:
         subtitle: "event manager, data analyst, lifelong learner"
         imageUrl: "https://assets.joeypetosa.com/jp_profile.jpg"
         imageTitle: "me" # optional
-        imageWidth: 120 # custom size
-        imageHeight: 120 # custom size
         buttons:
           - name: About
             url: "/about/"
