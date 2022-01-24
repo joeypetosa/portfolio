@@ -60,8 +60,11 @@ params:
       url: "https://www.linkedin.com/in/joey-petosa/"
     - name: "Github"
       url: "https://github.com/joeypetosa/"
-    - name: "Kaggle"
-      url: "https://www.kaggle.com/joeypetosa"
+    - name: "Goodreads"
+      url: "https://www.goodreads.com/user/show/93916801-joey-petosa"
+    - name: "Spotify"
+      url: "https://open.spotify.com/user/joeypetosa"
+
       
   assets:
     favicon: "https://assets.joeypetosa.com/favicon.ico"
