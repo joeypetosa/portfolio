@@ -60,6 +60,16 @@ params:
       url: "https://www.linkedin.com/in/joey-petosa/"
     - name: "Github"
       url: "https://github.com/joeypetosa/"
+    - name: "Kaggle"
+      url: "https://www.kaggle.com/joeypetosa"
+      
+  assets:
+    favicon: "https://assets.joeypetosa.com/favicon.ico"
+    favicon16x16:  "https://assets.joeypetosa.com/favicon-16x16.png"
+    favicon32x32:  "https://assets.joeypetosa.com/favicon-32x32.png"
+    apple_touch_icon:  "apple-touch-icon.png"
+    android_chrome_192x192:  "https://assets.joeypetosa.com/android-chrome-192x192.png"
+    android_chrome_512x512:  "https://assets.joeypetosa.com/android-chrome-512x512.png"
   
 taxonomies:
   category: categories
