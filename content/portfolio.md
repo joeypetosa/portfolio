@@ -7,13 +7,17 @@ A collection of my work.
 
 ---
 
-### Data Analytics
+## Data Analytics  
+![Data Analytics]("https://assets.joeypetosa.com/da_icon.png")  
 
-- [Bellabeat Case Study with R](https://joeypetosa.github.io/bellabeat_cs/)
+- [Bellabeat Case Study with R](https://joeypetosa.github.io/bellabeat_cs/)  
 
 ---
 
-## Event Production
+## Event Production  
+
+### Virtual Events  
+![Virtual Events]("https://assets.joeypetosa.com/ve_icon.png")  
 
 - [2021 ISB Virtual Microbiome Series](https://isbscience.org/microbiome2021/)
 - [2021 ISB Virtual Microbiome Series: Dr. Jack Gilbert](https://www.youtube.com/watch?v=3sSPX2M2Uoc)
@@ -24,3 +28,9 @@ A collection of my work.
 - [2020 ISB Virtual Microbiome Series](https://isbscience.org/microbiome2020/)
 - [2020 ISB Virtual Microbiome Series: Dr. Eric Alm](https://isbscience.org/news/2020/10/08/mining-sewage-to-track-population-health/)
 - [2020 Virtual Speaker Series: Future of Health](https://isbscience.org/2020/)
+
+---
+
+### In-Person Events  
+![Virtual Events]("https://assets.joeypetosa.com/em_icon.png")  
+
