@@ -37,7 +37,7 @@ params:
   
   ShowToc: false
   TocOpen: false
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowReadingTime: false
   ShowPostNavLinks: true
   ShowShareButtons: false
