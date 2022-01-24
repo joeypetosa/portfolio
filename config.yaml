@@ -12,13 +12,13 @@ params:
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
         buttons:
-            - name: About
+          - name: About
             url: "/about/"
-            - name: Portfolio
+          - name: Portfolio
             url: "/portfolio/"
 
     socialIcons: # optional
-        - name: "LinkedIn"
-            url: "https://www.linkedin.com/in/joey-petosa/"
-        - name: "Github"
-            url: "https://github.com/joeypetosa/"
+      - name: "LinkedIn"
+        url: "https://www.linkedin.com/in/joey-petosa/"
+      - name: "Github"
+        url: "https://github.com/joeypetosa/"
