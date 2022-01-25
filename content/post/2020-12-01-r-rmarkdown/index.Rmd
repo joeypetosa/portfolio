@@ -1,5 +1,6 @@
 ---
 title: "Hello R Markdown"
+slug: hello-r-markdown
 author: "Frida Gomam"
 date: 2020-12-01T21:13:14-05:00
 categories: ["R"]
@@ -35,3 +36,7 @@ pie(
   init.angle = -50, border = NA
 )
 ```
+
+
+
+{{ template "_internal/disqus.html" . }}
