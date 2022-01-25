@@ -26,13 +26,16 @@ menu:
     - name: categories
       url: "/categories/"
       weight: 4
+    - name: contact
+      url: "/contact/"
+      weight: 5
     - name: search
       url: "/search/"
-      weight: 5
+      weight: 6
 
 params:
   env: production
-  keywords: [Portfolio, DataAnalyis, R, EventManagement, Programming]
+  keywords: [Portfolio, Data Analytics, R, Event Management, Programming, Event Prouction, Data Analyst]
   defaultTheme: auto
   disableThemeToggle: false
   assets:
