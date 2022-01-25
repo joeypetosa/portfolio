@@ -3,12 +3,8 @@ baseURL: https://joeypetosa.com/
 languageCode: en-us
 title: joey petosa
 
-permalinks: 
-  post: /:year/:month/:slug/
-
 enableInlineShortcodes: true
 enableRobotsTXT: true
-canonifyURLs: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
@@ -92,3 +88,6 @@ outputs:
     - HTML
     - RSS
     - JSON
+
+permalinks: 
+  post: /:year/:month/:slug/
