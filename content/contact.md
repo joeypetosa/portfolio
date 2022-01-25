@@ -10,13 +10,13 @@ Thank you for taking the time to visit my site. Feel free to drop me a line if y
   <fieldset>
   <legend>contact form</legend>
       <label for="name">Name</label>
-      <input type="text" name="name" required>
+      <input type="text" name="name" placeholder="Your name*" required="required">
       <label for="email">Email</label>
-      <input type="email" name="email" required>
+      <input type="email" name="email" placeholder="Your email*" required="required">
       <label for="subject">Subject</label>
-      <input type="text" name="subject">
+      <input type="text" name="subject" placeholder="Your subject">
       <label for="message">Message</label>
-      <input type="text" name="message">
+      <textarea name="message" rows="10" cols="30" placeholder="Your message"> </textarea>
     <button type="submit">Send</button>
 </form>
 </fieldset>
