@@ -16,7 +16,7 @@ Thank you for taking the time to visit my site. Feel free to drop me a line if y
       <label for="subject">Subject</label>
       <input type="text" name="subject" placeholder="Your subject">
       <label for="message">Message</label>
-      <textarea name="message" rows="10" cols="30" placeholder="Your message"> </textarea>
+      <input type="text" name="message" placeholder="Your message">
     <button type="submit">Send</button>
 </form>
 </fieldset>
