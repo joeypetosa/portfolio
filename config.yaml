@@ -30,7 +30,7 @@ menu:
       weight: 4
       identifier: "categories"
     - name: contact
-      url: "/contact/"
+      url: "about/contact/"
       weight: 5
       identifier: "contact"
       parent: "about"
