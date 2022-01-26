@@ -40,7 +40,3 @@ pie(
 )
 ```
 
-
-
-{{ template "_internal/disqus.html" . }}
-
