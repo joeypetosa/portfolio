@@ -29,15 +29,15 @@ menu:
       url: "/categories/"
       weight: 4
       identifier: "categories"
-    - name: " "
-      url: "/contact/"
-      pre: <i class="fa fa-paper-plane" aria-hidden="true"></i>
-      weight: 6
-      identifier: "contact"
     - name: search
       url: "/search/"
       weight: 5
       identifier: "search"
+    - name: contact
+      url: "/contact/"
+      pre: <i class="fa fa-paper-plane" aria-hidden="true"></i>
+      weight: 6
+      identifier: "contact"
 
 params:
   env: production
