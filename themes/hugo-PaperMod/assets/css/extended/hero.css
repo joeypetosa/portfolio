@@ -1,5 +1,6 @@
 body, html {
-    height: 100%;
+      padding-top: 50px;
+      height: 100%;
 }
 
 /* The hero image */
@@ -28,7 +29,7 @@ body, html {
 }
 
 /* Customize the button */
-.hero-text button {
+.hero-text [type=button] {
   border: none;
   border-radius: var(--radius);
   outline: 0;
@@ -41,6 +42,6 @@ body, html {
 } 
 
 /* When moving the mouse over the submit button, add a darker green color */
-hero-text button:hover {
+.hero-text [type=button]:hover {
   background-color: var(--secondary);
 }
