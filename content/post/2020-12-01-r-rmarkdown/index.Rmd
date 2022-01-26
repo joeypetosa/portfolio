@@ -42,4 +42,4 @@ pie(
 
 
 
-{{ template "_internal/disqus.html" . }} 
+{{ partial "partials/disqus.html" . }}
