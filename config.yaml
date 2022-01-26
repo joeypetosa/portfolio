@@ -16,21 +16,28 @@ menu:
     - name: about
       url: "/about/"
       weight: 1
+      identifier: "about"
     - name: portfolio
       url: "/portfolio/"
       weight: 2
+      identifier: "portfolio"
     - name: archive
       url: "/archive/"
       weight: 3
+      identifier: "archive"
     - name: categories
       url: "/categories/"
       weight: 4
+      identifier: "categories"
     - name: contact
       url: "/contact/"
       weight: 5
+      identifier: "contact"
+      parent: "about"
     - name: search
       url: "/search/"
       weight: 6
+      identifier: "search"
 
 params:
   env: production
@@ -53,7 +60,7 @@ params:
   ShowReadingTime: false
   ShowPostNavLinks: true
   ShowShareButtons: false
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   displayFullLangName: true
   
   homeInfoParams:
@@ -63,7 +70,7 @@ params:
   profileMode:
     enabled: true
     title: "joey petosa"
-    subtitle: "event manager, data analyst, footballer"
+    subtitle: "event manager, data analyst, footballer, lifelong learner"
     imageUrl: "https://assets.joeypetosa.com/jp_profile.png"
     imageTitle: "me" # optional
 
