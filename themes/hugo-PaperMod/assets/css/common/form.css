@@ -30,5 +30,5 @@ input[type=submit]:hover {
   border: 2px solid var(--tertiary)
   border-radius: var(--radius)
   background-color: var(--tertiary);
-  padding: 20px
+  padding: 60px
 }
