@@ -1,13 +1,15 @@
 ---
 title: "About"
 url: /about/
+cover:
+  image: "https://assets.joeypetosa.com/banner_qa.png"
+  alt: "view of Seattle skyline"
+  caption: "View from Kerry Park in Seattle, November 2020"
+  linkFullImages: true
 ---
 
-{{< rawhtml >}}
-<div class="banner">
-    <p class="h1 display-4">Hi, how are you? My name is joey.</p>
-    <p class="lead">I'm an event producer and aspiring data analyst.</p>
-</div>
-{{< /rawhtml >}}
+# Hi, how are you? My name is joey.  
+
+## I'm an event producer and aspiring data analyst.  
 
 This is an about me section.
