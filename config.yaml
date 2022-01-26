@@ -29,14 +29,14 @@ menu:
       url: "/categories/"
       weight: 4
       identifier: "categories"
-    - name: contact
-      url: "about/contact/"
-      weight: 5
+    - name: 
+      url: "/contact/"
+      pre: <i class="fa fa-paper-plane" aria-hidden="true"></i>
+      weight: 6
       identifier: "contact"
-      parent: "about"
     - name: search
       url: "/search/"
-      weight: 6
+      weight: 5
       identifier: "search"
 
 params:
