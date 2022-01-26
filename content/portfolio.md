@@ -23,10 +23,12 @@ url: "/portfolio/"
 <div class="row">
   <div class="column">
     <h3>Virtual Events</h3>
+    {{< figure align=left src="https://assets.joeypetosa.com/ve_icon.png" width="200" height="200" alt="virtual logo" >}}
     <p>Some text..</p>
   </div>
   <div class="column">
     <h3>In-Person Events</h3>
+    {{< figure align=left src="https://assets.joeypetosa.com/em_icon.png" width="200" height="200" alt="in-person logo" >}} 
     <p>Some text..</p>
   </div>
 </div>
