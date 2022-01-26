@@ -1,12 +1,13 @@
 ---
 title: "Contact"
-url: "/contact/"
+url: /contact/
 ---
 
 Thank you for taking the time to visit my site. Feel free to drop me a line if you'd like to connect.  
 
 {{< rawhtml >}}
-<form action="https://getform.io/f/858388df-353c-41fa-8c6b-aaa21c876007" method="POST" enctype='multipart/form-data'>
+<div class="container">
+  <form action="https://getform.io/f/858388df-353c-41fa-8c6b-aaa21c876007" method="POST" enctype='multipart/form-data'>
   <fieldset>
     <legend>contact form</legend>
       <label for="name">Name</label>
@@ -16,8 +17,9 @@ Thank you for taking the time to visit my site. Feel free to drop me a line if y
       <label for="subject">Subject</label>
       <input type="text" name="subject" placeholder="Your subject">
       <label for="message">Message</label>
-      <input type="text" name="message" placeholder="Your message">
+      <textarea name="message" placeholder="Your message" style="height:200px"></textarea>
     </fieldset>
   <button type="submit">Send</button>
 </form>
+</div>
 {{< /rawhtml >}}
