@@ -10,7 +10,6 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 googleAnalytics: G-XNLPGFEEDW
-disqusShortname: joeypetosa
 
 menu:
   main:

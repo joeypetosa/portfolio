@@ -51,7 +51,6 @@
     {{- end }}
   </footer>
 
-  {{ template "_internal/disqus.html" . }}
   {{- if (.Param "comments") }}
   {{- partial "comments.html" . }}
   {{- end }}
