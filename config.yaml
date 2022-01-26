@@ -35,7 +35,7 @@ menu:
       identifier: "search"
     - name: contact
       url: "/contact/"
-      pre: <i class="fa fa-paper-plane" aria-hidden="true"></i>
+      pre: <i class="fa fa-paper-plane"></i>
       weight: 6
       identifier: "contact"
 
