@@ -4,7 +4,7 @@ body, html {
 
 /* The hero image */
 .hero-image {
-  /* Use "linear-gradient" to add a darken background effect to the image (https://assets.joeypetosa.com/cover_qa.png). This will make the text easier to read */
+  /* Use "linear-gradient" to add a darken background effect to the image. This will make the text easier to read */
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://assets.joeypetosa.com/cover_qa.png");
 
   /* Set a specific height */
@@ -25,4 +25,22 @@ body, html {
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
+}
+
+/* Customize the button */
+.hero-text button {
+  border: none;
+  border-radius: var(--radius);
+  outline: 0;
+  display: inline-block;
+  padding: 12px 20px;
+  color: var(--primary);
+  background-color: var(--tertiary);
+  text-align: center;
+  cursor: pointer;
+} 
+
+/* When moving the mouse over the submit button, add a darker green color */
+hero-text button:hover {
+  background-color: var(--secondary);
 }
