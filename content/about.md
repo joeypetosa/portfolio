@@ -10,6 +10,5 @@ cover:
 
 # Hi, how are you? My name is joey.  
 
-## I'm an event producer and aspiring data analyst.  
+I'm an event producer and aspiring data analyst.  
 
-This is an about me section.

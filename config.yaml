@@ -53,7 +53,7 @@ params:
   ShowReadingTime: false
   ShowPostNavLinks: true
   ShowShareButtons: false
-  ShowCodeCopyButtons: true
+  ShowCodeCopyButtons: false
   displayFullLangName: true
   
   homeInfoParams:
