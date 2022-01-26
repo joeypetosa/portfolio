@@ -23,7 +23,7 @@ Thank you for taking the time to visit my site. Feel free to drop me a line if y
       <label for="message">Message</label>
       <textarea name="message" placeholder="Your message" style="height:200px"></textarea>
 
-      <input type="submit">Send</>
+      <input type="submit">
       
   </fieldset>
   

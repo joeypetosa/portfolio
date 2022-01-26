@@ -1,6 +1,6 @@
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
-  width: 100%; /* half width */
+  width: 50%; /* half width */
   padding: 12px; /* Some padding */ 
   border: 2px solid var(--tertiary); 
   border-radius: var(--radius); 
@@ -27,7 +27,8 @@ input[type=submit]:hover {
 
 /* Add a background color and some padding around the form */
 .container {
+  border: 2px solid var(--tertiary)
   border-radius: var(--radius)
-  background-color: var(--border);
+  background-color: var(--tertiary);
   padding: 20px
 }
