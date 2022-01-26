@@ -1,0 +1,25 @@
+<style>
+  .banner {
+    background-image: url('https://assets.joeypetosa.com/cover_qa.png');
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 32px;
+  }
+
+  .banner > p {
+    color: var(--tertiary);
+    padding: 10px;
+  }
+
+@media (max-width: 576px) {
+  .banner {
+    align-items: flex-start;
+    height: 400px;
+  }
+}
+</style>
