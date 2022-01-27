@@ -2,7 +2,7 @@
 title: "About"
 url: /about/
 cover:
-  image: "https://assets.joeypetosa.com/banner_sd.png"
+  image: "https://assets.joeypetosa.com/banner_wi.png"
   alt: "beach view"
 ---
 
