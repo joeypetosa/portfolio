@@ -2,10 +2,8 @@
 title: "About"
 url: /about/
 cover:
-  image: "https://assets.joeypetosa.com/banner_qa.png"
-  alt: "view of Seattle skyline"
-  caption: "View from Kerry Park in Seattle, November 2020"
-  linkFullImages: true
+  image: "https://assets.joeypetosa.com/banner_sd.png"
+  alt: "beach view"
 ---
 
 # Hi, how are you? My name is joey.  
