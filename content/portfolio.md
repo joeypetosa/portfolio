@@ -16,7 +16,7 @@ url: "/portfolio/"
   
   <div class="column">
     <div class="card">
-      <h4>Events: Virtual</h4>
+      <h4>Virtual Events</h4>
       {{< figure align=left src="https://assets.joeypetosa.com/ve_icon.png" width="200" height="200" alt="virtual logo" >}}
       <p> </p>
     </div>
@@ -24,7 +24,7 @@ url: "/portfolio/"
   
   <div class="column">
     <div class="card">
-      <h4>Events: In-Person</h4>
+      <h4>In-Person Events</h4>
       {{< figure align=left src="https://assets.joeypetosa.com/em_icon.png" width="200" height="200" alt="in-person logo" >}}
       <p> </p>
     </div>
