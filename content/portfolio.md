@@ -9,19 +9,19 @@ url: "/portfolio/"
   <div class="row">
     <div class="column">
       <div class="card">
-        <h4>Data Analytics</h4>
+        <h3>Data Analytics</h3>
         <a href="https://joeypetosa.github.io/bellabeat_cs/">{{< figure align=left src="https://assets.joeypetosa.com/da_icon.png" alt="data analytics logo" >}}</a>
       </div>
     </div>
     <div class="column">
       <div class="card">
-        <h4>Virtual Events</h4>
+        <h3>Virtual Events</h3>
         {{< figure align=left src="https://assets.joeypetosa.com/ve_icon.png" alt="virtual logo" >}}
       </div>
     </div>
     <div class="column">
       <div class="card">
-        <h4>In-Person Events</h4>
+        <h3>In-Person Events</h3>
         {{< figure align=left src="https://assets.joeypetosa.com/em_icon.png" alt="in-person logo" >}}
       </div>
     </div>
