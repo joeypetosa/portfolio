@@ -11,7 +11,7 @@
 #columncards .column {
   float: left;
   width: 33.33%;
-  padding: 0 20px;
+  padding: 0 10px;
 }
 
 /* Remove extra left and right margins, due to padding in columns */
@@ -27,7 +27,7 @@
 /* Style the counter cards */
 #columncards .card {
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
-  padding: 16px;
+  padding: 10px;
   text-align: center;
   background-color: #d6d6d6;
   color: rgb(30, 30, 30);
@@ -35,7 +35,7 @@
 }
 
 /* Responsive columns - one column layout (vertical) on small screens */
-#columncards @media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
   .column {
     width: 100%;
     display: block;

@@ -11,7 +11,6 @@ url: "/portfolio/"
       <div class="card">
         <h4>Data Analytics</h4>
         <a href="https://joeypetosa.github.io/bellabeat_cs/">{{< figure align=left src="https://assets.joeypetosa.com/da_icon.png" width="200" height="200" alt="data analytics logo" >}}</a>
-        <p> </p>
       </div>
     </div>
   
@@ -19,7 +18,6 @@ url: "/portfolio/"
       <div class="card">
         <h4>Virtual Events</h4>
         {{< figure align=left src="https://assets.joeypetosa.com/ve_icon.png" width="200" height="200" alt="virtual logo" >}}
-        <p> </p>
       </div>
     </div>
   
@@ -27,7 +25,6 @@ url: "/portfolio/"
       <div class="card">
         <h4>In-Person Events</h4>
         {{< figure align=left src="https://assets.joeypetosa.com/em_icon.png" width="200" height="200" alt="in-person logo" >}}
-        <p> </p>
       </div>
     </div>
   </div>
