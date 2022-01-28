@@ -10,21 +10,19 @@ url: "/portfolio/"
     <div class="column">
       <div class="card">
         <h4>Data Analytics</h4>
-        <a href="https://joeypetosa.github.io/bellabeat_cs/">{{< figure align=left src="https://assets.joeypetosa.com/da_icon.png" width="200" height="200" alt="data analytics logo" >}}</a>
+        <a href="https://joeypetosa.github.io/bellabeat_cs/">{{< figure align=left src="https://assets.joeypetosa.com/da_icon.png" alt="data analytics logo" >}}</a>
       </div>
     </div>
-  
     <div class="column">
       <div class="card">
         <h4>Virtual Events</h4>
-        {{< figure align=left src="https://assets.joeypetosa.com/ve_icon.png" width="200" height="200" alt="virtual logo" >}}
+        {{< figure align=left src="https://assets.joeypetosa.com/ve_icon.png" alt="virtual logo" >}}
       </div>
     </div>
-  
     <div class="column">
       <div class="card">
         <h4>In-Person Events</h4>
-        {{< figure align=left src="https://assets.joeypetosa.com/em_icon.png" width="200" height="200" alt="in-person logo" >}}
+        {{< figure align=left src="https://assets.joeypetosa.com/em_icon.png" alt="in-person logo" >}}
       </div>
     </div>
   </div>
