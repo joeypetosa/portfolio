@@ -2,8 +2,8 @@
 title: "About"
 url: /about/
 cover:
-  image: "https://assets.joeypetosa.com/banner_fr.png"
-  alt: "beach view"
+  image: "banner_jp.png"
+  alt: "me"
 ---
 
 # Hi, how are you?  
