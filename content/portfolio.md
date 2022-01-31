@@ -28,11 +28,8 @@ url: "/portfolio/"
   </div>
   
 </div>
-{{< /rawhtml >}}
 
----
-
-{{< rawhtml >}}
+<hr>
 
 <header class=entry-header>
   <h1>Portfolio</h1>
