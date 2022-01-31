@@ -9,7 +9,7 @@ url: "/portfolio/"
   <header class="page-header">
     <h1>Portfolio</h1>
   </header>
-  <div class=post-content><p>Collection of work and experience. Classified according to type of project.</p>
+  <div class="post-content"><p>Collection of work and experience. Classified according to type of project.</p>
   <hr>
   </div>
 
