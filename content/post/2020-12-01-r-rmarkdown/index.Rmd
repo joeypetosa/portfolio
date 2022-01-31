@@ -3,11 +3,14 @@ title: "Hello R Markdown"
 author: "Frida Gomam"
 date: '2020-12-01'
 slug: hello-r-markdown
-categories: R
+categories: 
+- in person events
 tags:
 - R Markdown
 - plot
 - regression
+portfolio:
+- in-person-events
 ---
 
 ```{r setup, include=FALSE}

@@ -86,7 +86,7 @@ params:
 taxonomies:
   category: categories
   tag: tags
-  series: series
+  portfolio: portfolio
 
 outputs:
   home:
@@ -95,7 +95,7 @@ outputs:
     - JSON
 
 permalinks: 
-  post: /:year/:month/:slug/
+  post: /:slug/
 
 markup:
     goldmark:
