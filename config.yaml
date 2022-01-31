@@ -96,3 +96,8 @@ outputs:
 
 permalinks: 
   post: /:year/:month/:slug/
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
