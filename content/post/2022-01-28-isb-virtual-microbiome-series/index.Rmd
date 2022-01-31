@@ -3,8 +3,8 @@ title: "ISB Virtual Microbiome Series"
 author: "joey petosa"
 date: '2022-01-28'
 cover: 
-  - image: "https://assets.joeypetosa.com/banner_microbiome.png"
-  - alt: "microbiome series"
+  image: "https://assets.joeypetosa.com/banner_microbiome.png"
+  alt: "microbiome series"
 slug: microbiome-series
 categories:
 - events
