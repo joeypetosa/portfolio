@@ -3,12 +3,9 @@ title: "Portfolio"
 url: "/portfolio/"
 ---
 
+Collection of work and experience. Classified according to type of project.
 
 {{< rawhtml >}}
-
-<div class="post-content">
-  <p>Collection of work and experience. Classified according to type of project.</p>
-</div>
 
 <div id="columncards">
   <div class="row">
