@@ -8,7 +8,6 @@ cover:
 slug: microbiome-series
 categories:
 - events
-- virtual events
 tags:
 - event
 - virtual event
