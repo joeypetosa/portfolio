@@ -3,10 +3,15 @@ title: "Portfolio"
 url: "/portfolio/"
 ---
 
-Collection of work and experience. Classified according to type of project.  
-
-
 {{< rawhtml >}}
+
+<main class="main">
+  <header class="page-header">
+    <h1>Portfolio</h1>
+  </header>
+  <div class=post-content><p>Collection of work and experience. Classified according to type of project.</p>
+  <hr>
+  </div>
 
 <div id="columncards">
   <div class="row">
@@ -67,4 +72,6 @@ Collection of work and experience. Classified according to type of project.
   </section>
   <a class="entry-link" aria-label="post link to In-Person Events" href="https://www.joeypetosa.com/portfolio/in-person-events/"></a>
 </article>
+
+</main>
 {{< /rawhtml >}}
