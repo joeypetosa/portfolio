@@ -40,6 +40,15 @@
   height:auto;
 }
 
+/* Card links */
+#columncards .card-link {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
 /* Responsive columns - one column layout (vertical) on small screens */
 @media screen and (max-width: 600px) {
   .column {
