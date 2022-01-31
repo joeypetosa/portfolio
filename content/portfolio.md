@@ -5,6 +5,8 @@ url: "/portfolio/"
 
 
 {{< rawhtml >}}
+<main class=main>
+
 <div id="columncards">
   <div class="row">
     <div class="column">
@@ -31,17 +33,15 @@ url: "/portfolio/"
 
 <hr>
 
-<header class="entry-header">
   <h1>Portfolio</h1>
-</header>
-<div class="post-content">
+  <div class="post-content">
   <p>Collection of work and experience.<br>Classified according to type of project.</p>
+  </div>
 </div>
 
 <article class="post-entry">
   <header class="entry-header">
-    <h2>Data Analytics
-    </h2>
+    <h2>Data Analytics</h2>
   </header>
   <section class="entry-content">
     <p>Data analytics work and case studies</p>
@@ -51,8 +51,7 @@ url: "/portfolio/"
 
 <article class="post-entry">
   <header class="entry-header">
-    <h2>Virtual Events
-    </h2>
+    <h2>Virtual Events</h2>
   </header>
   <section class="entry-content">
     <p>Virtual events I've produced.</p>
@@ -62,8 +61,7 @@ url: "/portfolio/"
 
 <article class="post-entry">
   <header class="entry-header">
-    <h2>In-Person Events
-    </h2>
+    <h2>In-Person Events</h2>
   </header>
   <section class="entry-content">
     <p>In-person events I've produced.</p>
@@ -71,5 +69,6 @@ url: "/portfolio/"
   <a class="entry-link" aria-label="post link to In-Person Events" href="https://www.joeypetosa.com/portfolio/in-person-events/"></a>
 </article>
 
+</main>
 
 {{< /rawhtml >}}
