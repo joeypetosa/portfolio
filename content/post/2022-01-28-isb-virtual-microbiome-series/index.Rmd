@@ -53,12 +53,12 @@ how successful this series was in 2021.
 
 
 <div style="align: center; margin-left: -10px;"> 
-  <iframe src="https://public.tableau.com/views/2021ISBVirtualMicrobiomeSeriesRegistrationMap/2021ISBVirtualMicrobiomeSeries?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&:showVizHome=no" width="800px" height="827px" frameborder="0">
+  <iframe src="https://public.tableau.com/views/2021ISBVirtualMicrobiomeSeriesRegistrationMap/2021ISBVirtualMicrobiomeSeries?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&:showVizHome=no" width="650px" height="887px" frameborder="0">
   </iframe>
 </div>
 
 <div style="align: center; margin-left: -10px;"> 
-  <iframe src="https://public.tableau.com/views/2021ISBVirtualMicrobiomeSeries/2021ISBVirtualMicrobiomeSeriesRegistrationSource?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no" width="800px" height="827px" frameborder="0">
+  <iframe src="https://public.tableau.com/views/2021ISBVirtualMicrobiomeSeries/2021ISBVirtualMicrobiomeSeriesRegistrationSource?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&:showVizHome=no" width="650px" height="887px" frameborder="0">
   </iframe>
 </div>
 
