@@ -1,10 +1,7 @@
 ---
 title: "Portfolio"
 url: /portfolio/
-output: 
-  html_document: 
-    toc: yes
-    fig_caption: yes
+output: html_document
 ---
 
 A collection of work and experience, classified according to type of project.  
