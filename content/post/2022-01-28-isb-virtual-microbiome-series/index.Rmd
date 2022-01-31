@@ -9,8 +9,7 @@ slug: microbiome-series
 categories:
 - events
 tags:
-- event
-- virtual event
+- events
 - ISB
 - Tableau
 - data visualization
