@@ -3,7 +3,8 @@ title: "Portfolio"
 url: "/portfolio/"
 ---
 
-Collection of work and experience. Classified according to type of project.
+Collection of work and experience. Classified according to type of project.  
+
 
 {{< rawhtml >}}
 
