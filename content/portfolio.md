@@ -48,6 +48,7 @@ Collection of work and experience. Classified according to type of project.
   </section>
   <a class="entry-link" aria-label="post link to Data Analytics" href="https://www.joeypetosa.com/portfolio/data-analytics/"></a>
 </article>
+
 <article class="post-entry">
   <header class="entry-header">
     <h2>Virtual Events</h2>
