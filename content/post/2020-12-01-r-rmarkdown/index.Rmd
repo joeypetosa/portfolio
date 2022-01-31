@@ -10,7 +10,7 @@ tags:
 - plot
 - regression
 portfolio:
-- in-person-events
+- In-person Events
 ---
 
 ```{r setup, include=FALSE}

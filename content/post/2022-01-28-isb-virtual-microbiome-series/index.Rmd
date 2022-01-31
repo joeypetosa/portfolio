@@ -16,7 +16,7 @@ tags:
 - Tableau
 - data visualization
 portfolio:
-- virtual-events
+- Virtual Events
 ---
 
 
