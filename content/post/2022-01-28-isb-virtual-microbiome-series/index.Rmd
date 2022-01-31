@@ -1,9 +1,11 @@
 ---
 title: "ISB Virtual Microbiome Series"
 author: "joey petosa"
-date: "2022-01-28"
+date: '2022-01-28'
 slug: microbiome-series
-categories: ["events", "virtual events"]
+categories:
+- events
+- virtual events
 tags:
 - event
 - virtual event
