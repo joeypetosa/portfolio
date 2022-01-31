@@ -39,6 +39,7 @@ url: "/portfolio/"
 </header>
 <div class=post-content><p>Collection of work and experience.
 <br>Classified according to type of project.</p>
+</div>
 
 <article class=post-entry>
   <header class=entry-header>
