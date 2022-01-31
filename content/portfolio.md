@@ -37,6 +37,7 @@ A collection of work and experience, classified according to type of project.
 
 {{< /rawhtml >}}
 
+
 {{< rawhtml >}}
 
 <article class="post-entry">
