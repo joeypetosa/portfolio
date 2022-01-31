@@ -3,15 +3,12 @@ title: "Portfolio"
 url: "/portfolio/"
 ---
 
-{{< rawhtml >}}
+# Portfolio
+Collection of work and experience. Classified according to type of project.  
 
-<main class="main">
-  <header class="page-header">
-    <h1>Portfolio</h1>
-  </header>
-  <div class="post-content"><p>Collection of work and experience. Classified according to type of project.</p>
-  <hr>
-  </div>
+---
+
+{{< rawhtml >}}
 
 <div id="columncards">
   <div class="row">
@@ -63,6 +60,7 @@ url: "/portfolio/"
   </section>
   <a class="entry-link" aria-label="post link to Virtual Events" href="https://www.joeypetosa.com/portfolio/virtual-events/"></a>
 </article>
+
 <article class="post-entry">
   <header class="entry-header">
     <h2>In-Person Events</h2>
@@ -73,5 +71,5 @@ url: "/portfolio/"
   <a class="entry-link" aria-label="post link to In-Person Events" href="https://www.joeypetosa.com/portfolio/in-person-events/"></a>
 </article>
 
-</main>
 {{< /rawhtml >}}
+
