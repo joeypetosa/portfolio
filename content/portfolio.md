@@ -1,12 +1,10 @@
 ---
 title: "Portfolio"
 url: /portfolio/
-output: html_document
 ---
 
 A collection of work and experience, classified according to type of project.  
 
----
 
 {{< rawhtml >}}
 
@@ -31,6 +29,7 @@ A collection of work and experience, classified according to type of project.
       </div>
     </div>
   </div>
+
 </div>
 
 {{< /rawhtml >}}
@@ -46,6 +45,7 @@ A collection of work and experience, classified according to type of project.
   </section>
   <a class="entry-link" aria-label="post link to Data Analytics" href="https://www.joeypetosa.com/portfolio/data-analytics/"></a>
 </article>
+
 <article class="post-entry">
   <header class="entry-header">
     <h2>Virtual Events</h2>
@@ -55,6 +55,7 @@ A collection of work and experience, classified according to type of project.
   </section>
   <a class="entry-link" aria-label="post link to Virtual Events" href="https://www.joeypetosa.com/portfolio/virtual-events/"></a>
 </article>
+
 <article class="post-entry">
   <header class="entry-header">
     <h2>In-Person Events</h2>
@@ -64,5 +65,6 @@ A collection of work and experience, classified according to type of project.
   </section>
   <a class="entry-link" aria-label="post link to In-Person Events" href="https://www.joeypetosa.com/portfolio/in-person-events/"></a>
 </article>
+
 {{< /rawhtml >}}
 
