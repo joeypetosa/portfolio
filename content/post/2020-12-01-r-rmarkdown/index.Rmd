@@ -5,7 +5,7 @@ date: '2020-12-01'
 slug: events/hello-r-markdown
 categories: ["In-Person Events"]
 tags: ["R Markdown", "plot", "regression"]
-portfolio: ["In-Person Events"]
+series: ["Portfolio", "In-Person Events"]
 ---
 
 ```{r setup, include=FALSE}

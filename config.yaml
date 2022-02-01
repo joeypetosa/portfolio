@@ -41,6 +41,7 @@ privacy:
 
 params:
   env: production
+  description: joey's website - https://joeypetosa.com
   keywords: [Portfolio, Data Analytics, R, Event Management, Programming, Event Prouction, Data Analyst]
   defaultTheme: auto
   disableThemeToggle: false
@@ -90,7 +91,7 @@ params:
 taxonomies:
   category: categories
   tag: tags
-  portfolio: portfolio
+  series: series
 
 outputs:
   home:
@@ -105,3 +106,27 @@ markup:
     goldmark:
         renderer:
             unsafe: true
+
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+
+  instagram:
+    disabled: false
+    simple: true
+
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
+services:
+  instagram:
+      disableInlineCSS: true
+  twitter:
+      disableInlineCSS: true

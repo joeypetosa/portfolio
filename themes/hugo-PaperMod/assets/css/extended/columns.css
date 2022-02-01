@@ -18,24 +18,24 @@ p.card-color {
 }
 
 /* Float three columns side by side */
-#columncards .column {
+#columncards div.column {
   float: left;
   width: 33.33%;
   padding: 0 10px;
 }
 
 /* Remove extra left and right margins, due to padding in columns */
-#columncards .row {margin: 0 -5px;}
+#columncards div.row {margin: 0 -5px;}
 
 /* Clear floats after the columns */
-#columncards .row:after {
+#columncards div.row:after {
   content: "";
   display: table;
   clear: both;
 }
 
 /* Style the counter cards */
-#columncards .card {
+#columncards div.card {
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
   padding: 10px;
   text-align: center;
@@ -51,7 +51,7 @@ p.card-color {
 }
 
 /* Card links */
-#columncards .card-link {
+#columncards div.card-link {
     position: absolute;
     left: 0;
     right: 0;

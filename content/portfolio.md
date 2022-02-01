@@ -1,14 +1,9 @@
 ---
 title: "Portfolio"
 url: /portfolio/
-type: "list"
 ---
  
 <main class="main">
-   <header class="page-header">
-      <div class="breadcrumbs"><a href="https://joeypetosa.com/">Home</a></div>
-      <h1>My portfolio</h1>
-   </header>
       <p>
       A collection of work and experience. Classified according to type of project.
       </p>
