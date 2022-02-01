@@ -14,7 +14,6 @@ tags:
 - Tableau
 - data visualization
 portfolio: Virtual Events
-url: "/portfolio/virtual-events/microbiome-series"
 ---
 
 ## About  

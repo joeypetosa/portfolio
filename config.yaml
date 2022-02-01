@@ -103,7 +103,7 @@ outputs:
     - JSON
 
 permalinks:
-  post: "/:slug/"
+  post: "/:portfolio/:slug/"
 
 markup:
     goldmark:
