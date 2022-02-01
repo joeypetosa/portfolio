@@ -20,7 +20,7 @@ menu:
     - name: portfolio
       url: "/portfolio/"
       weight: 2
-      identifier: "work"
+      identifier: "portfolio"
     - name: categories
       url: "/categories/"
       weight: 3
