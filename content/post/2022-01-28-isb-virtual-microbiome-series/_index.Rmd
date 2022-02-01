@@ -53,7 +53,7 @@ We had remarkable growth in attendance for this series in the past two years.
 We went from 713 registered attendees in 2020 to 2,274 in 2021, which is a 
 219% increase. There were 81 countries represented from around the world, as 
 well as 45 US states. I’ve provided some data visualizations below that outline 
-how successful this series was in 2021.
+how successful this series was in 2021.  
 
 
 <div style="align: center; margin-left: -10px;"> 

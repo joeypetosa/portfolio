@@ -18,6 +18,7 @@ tags:
 - Data Analysis
 portfolio:
 - Data Analytics
+url: "/portfolio/data-analytics/bellabeat-case-study"
 ---
 
 [Bellabeat](https://bellabeat.com/about/) is the go-to wellness brand for women with an ecosystem of products and services that focuses on women’s health. They empower women with knowledge about their own health and habits by collecting data on activity, sleep, stress, and reproductive health. In this case study, I analyze smart device fitness data that could help unlock new growth opportunities for the company.
