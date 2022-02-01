@@ -4,7 +4,7 @@ url: /portfolio/
 ---
 
 {{< rawhtml >}}
-<main class="main"> == $0
+<main class="main">
   <header class="page-header">
     <h1>Portfolio</h1>
   </header>
@@ -37,6 +37,11 @@ url: /portfolio/
     </div>
     <hr>
   </div>
+  
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+  
   <article class="post-entry">
    <header class="entry-header">
      <h2>Data Analytics </h2>
