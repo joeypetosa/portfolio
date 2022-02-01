@@ -20,7 +20,6 @@ menu:
     - name: portfolio
       url: "/portfolio/"
       weight: 2
-      identifier: "portfolio"
     - name: archive
       url: "/archive/"
       weight: 3
@@ -86,6 +85,7 @@ params:
 taxonomies:
   category: categories
   tag: tags
+  portfolio: portfolio
 
 outputs:
   home:

@@ -9,6 +9,8 @@ tags:
 - R Markdown
 - plot
 - regression
+portfolio:
+  - "In-Person Events"
 ---
 
 ```{r setup, include=FALSE}
