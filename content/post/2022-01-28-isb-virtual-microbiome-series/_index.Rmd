@@ -13,7 +13,8 @@ tags:
 - ISB
 - Tableau
 - data visualization
-portfolio: Virtual Events
+portfolio: 
+- Virtual Events
 ---
 
 ## About  

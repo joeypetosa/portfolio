@@ -1,7 +1,7 @@
 ---
 title: "Portfolio"
 url: /portfolio/
-layout: "single"
+layout: "post"
 ---
 
 
