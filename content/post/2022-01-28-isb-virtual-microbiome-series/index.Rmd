@@ -8,7 +8,7 @@ cover:
 slug: events/microbiome-series
 categories: ["Virtual Events"]
 tags: ["events", "ISB", "Tableau", "data visualization"]
-series: ["Virtual Events"]
+portfolio: ["Virtual Events"]
 ---
 
 ## About  

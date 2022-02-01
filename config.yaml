@@ -94,7 +94,7 @@ params:
 taxonomies:
   category: categories
   tag: tags
-  series: series
+  portfolio: portfolio
 
 outputs:
   home:
