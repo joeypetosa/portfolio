@@ -86,7 +86,6 @@ params:
 taxonomies:
   category: categories
   tag: tags
-  portfolio: portfolio
 
 outputs:
   home:

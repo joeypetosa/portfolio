@@ -7,7 +7,7 @@ cover:
   alt: "Bellabeat Case Study with R by Joey Petosa"
 slug: bellabeat-case-study
 categories:
-- data analytics
+- Data Analytics
 tags:
 - R
 - R Studio
@@ -16,8 +16,6 @@ tags:
 - Data Visualization
 - R Programming
 - Data Analysis
-portfolio:
-- Data Analytics
 ---
 
 [Bellabeat](https://bellabeat.com/about/) is the go-to wellness brand for women with an ecosystem of products and services that focuses on women’s health. They empower women with knowledge about their own health and habits by collecting data on activity, sleep, stress, and reproductive health. In this case study, I analyze smart device fitness data that could help unlock new growth opportunities for the company.

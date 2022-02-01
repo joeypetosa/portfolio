@@ -7,14 +7,12 @@ cover:
   alt: "microbiome series"
 slug: microbiome-series
 categories:
-- events
+- Virtual Events
 tags:
 - events
 - ISB
 - Tableau
 - data visualization
-portfolio:
-- Virtual Events
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "Portfolio"
 url: /portfolio/
-layout: "list"
 ---
 
 {{< rawhtml >}}
