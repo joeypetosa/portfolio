@@ -5,15 +5,6 @@ url: /portfolio/
 
 {{< rawhtml >}}
 <main class="main">
-  <header class="page-header">
-    <h1>Portfolio</h1>
-  </header>
-  <div class="post-content">
-    <p>
-    A collection of work and experience, classified according to type of project. 
-    </p>
-    <hr>
-  </div>
   <div id="columncards">
     <div class="row">
       <div class="column">
@@ -37,10 +28,15 @@ url: /portfolio/
     </div>
     <hr>
   </div>
-  
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
+  <div class="post-content">
+    <p>
+    A collection of work and experience, classified according to type of project. 
+    </p>
+    <hr>
+  </div>
   
   <article class="post-entry">
    <header class="entry-header">
@@ -51,6 +47,7 @@ url: /portfolio/
    </section>
    <a class="entry-link" aria-label="post link to Data Analytics" href="https://www.joeypetosa.com/portfolio/data-analytics/"></a>
   </article>
+  
   <article class="post-entry">
     <header class="entry-header">
      <h2>Virtual Events </h2>
@@ -60,6 +57,7 @@ url: /portfolio/
     </section>
     <a class="entry-link" aria-label="post link to Virtual Events" href="https://www.joeypetosa.com/portfolio/virtual-events/"></a>
   </article>
+  
   <article class="post-entry">
     <header class="entry-header">
      <h2>In-Person Events </h2>
@@ -69,5 +67,6 @@ url: /portfolio/
     </section>
     <a class="entry-link" aria-label="post link to In-Person Events" href="https://www.joeypetosa.com/portfolio/in-person-events/"></a>
   </article>
+
 </main>
 {{< /rawhtml >}}
