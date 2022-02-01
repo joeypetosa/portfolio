@@ -3,38 +3,47 @@ title: "Portfolio"
 url: /portfolio/
 ---
 
-<div id="columncards">
-<div class="row">
-   <div class="column">
-      <div class="card">
-         <h3 class="card-color">Data Analytics</h3>
-         <a href="https://www.joeypetosa.com/portfolio/data-analytics/">
-         {{< figure align=left src="https://assets.joeypetosa.com/da_icon.png" alt="data analytics logo" >}}</a>
-         <p class="card-color">
-            Data analytics work and case studies
-         </p>
+<main class="main">
+   <header class="page-header">
+      <div class="breadcrumbs"><a href="https://joeypetosa.com/">Home</a></div>
+      <h1>Portfolio</h1>
+   </header>
+   <div class="post-content">
+      <p>A collection of work and experience. Classified according to type of project.</p>
+      <hr>
+   </div>
+   <div id="columncards">
+   <div class="row">
+      <div class="column">
+         <div class="card">
+            <h3 class="card-color">Data Analytics</h3>
+            <a href="https://www.joeypetosa.com/portfolio/data-analytics/">
+            {{< figure align=left src="https://assets.joeypetosa.com/da_icon.png" alt="data analytics logo" >}}</a>
+            <p class="card-color">
+               Data analytics work and case studies
+            </p>
+         </div>
+      </div>
+      <div class="column">
+         <div class="card">
+            <h3 class="card-color">Virtual Events</h3>
+            <a href="https://www.joeypetosa.com/portfolio/virtual-events/">
+            {{< figure align=left src="https://assets.joeypetosa.com/ve_icon.png" alt="virtual logo" >}}</a>
+            <p class="card-color">
+               Virtual events I've produced.
+            </p>
+         </div>
+      </div>
+      <div class="column">
+         <div class="card">
+            <h3 class="card-color">In-Person Events</h3>
+            <a href="https://www.joeypetosa.com/portfolio/in-person-events/">
+            {{< figure align=left src="https://assets.joeypetosa.com/em_icon.png" alt="in-person logo" >}}</a>
+            <p class="card-color">
+               In-person events I've produced.
+            </p>
+         </div>
       </div>
    </div>
-   <div class="column">
-      <div class="card">
-         <h3 class="card-color">Virtual Events</h3>
-         <a href="https://www.joeypetosa.com/portfolio/virtual-events/">
-         {{< figure align=left src="https://assets.joeypetosa.com/ve_icon.png" alt="virtual logo" >}}</a>
-         <p class="card-color">
-            Virtual events I've produced.
-         </p>
-      </div>
-   </div>
-   <div class="column">
-      <div class="card">
-         <h3 class="card-color">In-Person Events</h3>
-         <a href="https://www.joeypetosa.com/portfolio/in-person-events/">
-         {{< figure align=left src="https://assets.joeypetosa.com/em_icon.png" alt="in-person logo" >}}</a>
-         <p class="card-color">
-            In-person events I've produced.
-         </p>
-      </div>
-   </div>
-</div>
-</div
-
+   </div
+</main>
