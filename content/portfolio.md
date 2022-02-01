@@ -3,6 +3,10 @@ title: "Portfolio"
 url: /portfolio/
 ---
 
+
+A collection of work and experience, classified according to type of project. 
+
+
 {{< rawhtml >}}
 
   <div id="columncards">

@@ -90,7 +90,7 @@ outputs:
     - RSS
     - JSON
 
-permalinks: 
+permalinks:
   post: /:portfolio/:slug/
 
 markup:
