@@ -20,21 +20,18 @@ menu:
     - name: portfolio
       url: "/portfolio/"
       weight: 2
-    - name: archive
-      url: "/archive/"
-      weight: 3
-      identifier: "archive"
+      identifier: "portfolio"
     - name: categories
       url: "/categories/"
-      weight: 4
+      weight: 3
       identifier: "categories"
     - name: contact
       url: "/contact/"
-      weight: 5
+      weight: 4
       identifier: "contact"
     - name: search
       url: "/search/"
-      weight: 6
+      weight: 5
       identifier: "search"
 
 params:
@@ -81,8 +78,6 @@ params:
       url: "https://www.goodreads.com/user/show/93916801-joey-petosa"
     - name: "Spotify"
       url: "https://open.spotify.com/user/joeypetosa"
-
-disableKinds: ["portfolio"]
 
 taxonomies:
   category: categories

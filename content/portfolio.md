@@ -4,7 +4,7 @@ url: /portfolio/
 ---
 
 {{< rawhtml >}}
-<main class="main">
+
   <div id="columncards">
     <div class="row">
       <div class="column">
