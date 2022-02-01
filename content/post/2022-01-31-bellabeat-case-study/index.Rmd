@@ -5,7 +5,7 @@ date: '2022-01-31'
 cover: 
   image: "https://assets.joeypetosa.com/bellabeat_cs_image.png"
   alt: "Bellabeat Case Study with R by Joey Petosa"
-slug: bellabeat-case-study
+slug: data-analytics/bellabeat-case-study
 categories:
 - Data Analytics
 tags:
@@ -16,7 +16,7 @@ tags:
 - Data Visualization
 - R Programming
 - Data Analysis
-portfolio:
+series:
 - Data Analytics
 ---
 
