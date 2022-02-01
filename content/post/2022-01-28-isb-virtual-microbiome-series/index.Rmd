@@ -6,15 +6,9 @@ cover:
   image: https://assets.joeypetosa.com/microbiome.png
   alt: microbiome series
 slug: events/microbiome-series
-categories: 
-- Virtual Events
-tags:
-- events
-- ISB
-- Tableau
-- data visualization
-series: 
-- Virtual Events
+categories: ["Virtual Events"]
+tags: ["events", "ISB", "Tableau", "data visualization"]
+series: ["Virtual Events"]
 ---
 
 ## About  
