@@ -100,7 +100,8 @@ outputs:
     - JSON
 
 permalinks:
-  post: "/portfolio/:sections[1]/:slug/"
+  post: "/sections[1-2]/:slug/"
+  series: "/sections[1-2]/:slug/"
 
 markup:
     goldmark:
