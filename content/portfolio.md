@@ -1,9 +1,9 @@
 ---
 title: "Portfolio"
 url: /portfolio/
-layout: "post"
+type: "list"
 ---
-
+ 
 <main class="main">
    <header class="page-header">
       <div class="breadcrumbs"><a href="https://joeypetosa.com/">Home</a></div>
