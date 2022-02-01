@@ -20,7 +20,7 @@ menu:
     - name: portfolio
       url: "/portfolio/"
       weight: 2
-      identifier: "portfolio"
+      identifier: "work"
     - name: categories
       url: "/categories/"
       weight: 3
@@ -33,6 +33,15 @@ menu:
       url: "/search/"
       weight: 5
       identifier: "search"
+
+privacy:
+  disqus:
+    disable: "false"
+  googleAnalytics:
+    anonymizeIP: "true"
+    disable: "false"
+    respectDoNotTrack: "false"
+    useSessionStorage: "false" 
 
 params:
   env: production
@@ -57,6 +66,9 @@ params:
   ShowShareButtons: false
   ShowCodeCopyButtons: true
   displayFullLangName: true
+  meta:
+    author: "Joey Petosa"
+    titleSeparator: " | "
   
   homeInfoParams:
     Content: "event manager, data analyst, footballer"
