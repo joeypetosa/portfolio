@@ -3,15 +3,16 @@ title: "Portfolio"
 url: /portfolio/
 summary: A collection of work and experience. Classified according to type of project.
 ---
-<main class="main">
-      <p>
-      A collection of work and experience. Classified according to type of project.
-      </p>
-      <hr>
+
+<main class="main"> 
+   <p>
+   A collection of work and experience. Classified according to type of project.
+   </p>
+   <hr>
    <div id="columncards">
    <div class="row">
       <div class="column">
-         <div class="card"> 
+         <div class="card">
             <h4 class="card-color">Data Analytics</h4>
             <a href="https://www.joeypetosa.com/portfolio/data-analytics/">
             {{< figure align=left src="https://assets.joeypetosa.com/da_icon.png" alt="data analytics logo" >}}</a>
