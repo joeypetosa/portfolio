@@ -3,11 +3,12 @@ title: "Portfolio"
 url: /portfolio/
 summary: A collection of work and experience. Classified according to type of project.
 ---
-
-A collection of work and experience. Classified according to type of project.  
-<hr>
-
-<div id="columncards">
+<main class="main">
+      <p>
+      A collection of work and experience. Classified according to type of project.
+      </p>
+      <hr>
+   <div id="columncards">
    <div class="row">
       <div class="column">
          <div class="card"> 
@@ -40,4 +41,5 @@ A collection of work and experience. Classified according to type of project.
          </div>
       </div>
    </div>
-</div
+   </div
+</main>
