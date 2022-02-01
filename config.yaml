@@ -81,7 +81,9 @@ params:
       url: "https://www.goodreads.com/user/show/93916801-joey-petosa"
     - name: "Spotify"
       url: "https://open.spotify.com/user/joeypetosa"
-  
+
+disableKinds: ["portfolio"]
+
 taxonomies:
   category: categories
   tag: tags
