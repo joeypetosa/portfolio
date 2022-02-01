@@ -4,9 +4,10 @@ author: "joey petosa"
 date: '2022-01-28'
 cover:
   image: "https://assets.joeypetosa.com/microbiome.png"
-  alt: microbiome series
+  alt: "microbiome series"
 slug: microbiome-series
-categories: Virtual Events
+categories: 
+- Virtual Events
 tags:
 - events
 - ISB
@@ -14,7 +15,6 @@ tags:
 - data visualization
 portfolio: Virtual Events
 ---
-
 
 ## About  
 As Event Manager and Technical Director for ISB's Virtual Microbiome Series, I 
