@@ -1,8 +1,8 @@
 ---
-title: "Visions of the Future: A symposium honoring Lee Hood"
+title: "Visions of the Future Symposium"
 author: "joey petosa"
-description: A symposium honoring Lee Hood on his 80th birthday
-date: '2018-10-13'
+date: "2018-10-13"
+description: "A symposium honoring Lee Hood on his 80th birthday"
 cover:
   image: "https://assets.joeypetosa.com/portfolio/banner_lh80.png"
   caption: "Merck President Roger Perlmutter (left) and Dr. Lee Hood"
@@ -16,7 +16,7 @@ series: ["Portfolio", "In-Person Events"]
 ## About  
 A symposium and party held in honor of Dr. Lee Hood’s 80th birthday. [Dr. Hood](https://isbscience.org/bio/leroy-hood/), a pioneer in the field of 
 biotechnology and recipient of the National Medal of Science in 2011, is 
-co-founder and chief strategy officer of ISB.
+co-founder and chief strategy officer of ISB. 
 
 * [Event Website](https://isbscience.org/LH80/)  
 * [Event Summary](https://isbscience.org/news/2019/01/08/visions-of-the-future-symposium-honors-dr-lee-hood-on-his-80th-birthday/)
