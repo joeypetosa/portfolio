@@ -30,15 +30,6 @@ menu:
       weight: 4
       identifier: "search"
 
-privacy:
-  disqus:
-    disable: "false"
-  googleAnalytics:
-    anonymizeIP: "true"
-    disable: "false"
-    respectDoNotTrack: "false"
-    useSessionStorage: "false" 
-
 params:
   env: production
   description: joey's website - https://joeypetosa.com
@@ -109,6 +100,15 @@ markup:
             unsafe: true
 
 privacy:
+  disqus:
+    disable: "false"
+  
+  googleAnalytics:
+    anonymizeIP: "true"
+    disable: "false"
+    respectDoNotTrack: "false"
+    useSessionStorage: "false" 
+  
   vimeo:
     disabled: false
     simple: true

@@ -2,7 +2,7 @@
 title: "ISB Virtual Microbiome Series"
 author: "joey petosa"
 description: Virtual event series
-date: '2022-01-28'
+date: "2021-10-13"
 cover:
   image: "https://assets.joeypetosa.com/microbiome.png"
   alt: "Microbiome Series"
