@@ -1,7 +1,7 @@
 ---
 title: "Visions of the Future: A symposium honoring Lee Hood"
 author: "joey petosa"
-description: "A symposium honoring Lee Hood on his 80th birthday"
+description: A symposium honoring Lee Hood on his 80th birthday
 date: '2018-10-13'
 cover:
   image: "https://assets.joeypetosa.com/portfolio/banner_lh80.png"
@@ -31,9 +31,11 @@ The symposium was free to the public and had over 160 in attendance. The birthda
 celebration was a private event hosted at [Chihuly Garden and Glass](https://www.chihulygardenandglass.com/), and included a dinner, roast 
 and concert with over 200 people in attendance.  
 
->***"This 80th birthday was the best I have ever had. The Chihuly setting was 
-breathtaking; the people spanned from my earliest days in science right up until 
-today; the roasts were wonderful -- saying more about the speakers than about me 
-and the interactions of all of us with one another were marred only by the fact 
-they were all too brief. I cannot imagine a better birthday celebration."*** 
-- Dr. Lee Hood   
+>***“I thought the symposium was one of the best that ISB has ever had. Each of 
+the speakers were superb in their own unique ways and we had a very broad view 
+of where science is going,” Lee said. "This 80th birthday was the best I have 
+ever had. The Chihuly setting was breathtaking; the people spanned from my 
+earliest days in science right up until today; the roasts were wonderful -- saying 
+more about the speakers than about me and the interactions of all of us 
+with one another were marred only by the fact they were all too brief. I cannot 
+imagine a better birthday celebration."*** 
