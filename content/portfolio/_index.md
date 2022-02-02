@@ -24,7 +24,7 @@ description: A collection of work and experience. Classified according to type o
       <div class="column">
          <div class="card">
             <a href="https://www.joeypetosa.com/portfolio/in-person-events/">
-            {{< figure align=left src="https://assets.joeypetosa.com/em_icon.png" alt="in-person logo" >}}</a>
+            {{< figure align=left src="https://assets.joeypetosa.com/ipevent_icon.png" alt="in-person logo" >}}</a>
          </div>
       </div>
    </div>
