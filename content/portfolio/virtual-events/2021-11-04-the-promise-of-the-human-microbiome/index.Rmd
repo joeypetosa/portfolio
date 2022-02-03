@@ -10,11 +10,12 @@ categories:
   - Virtual Events
 tags:
   - Event Production
+  - Events
+  - Livestream
   - ISB
-  - Microbiome
   - Town Hall
   - Zoom
-  - Livestream
+  - Microbiome
 ---
 
 ## About:  

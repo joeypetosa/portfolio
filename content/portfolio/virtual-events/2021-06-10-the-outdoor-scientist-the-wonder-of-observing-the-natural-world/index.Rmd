@@ -1,0 +1,40 @@
+---
+title: 'The Outdoor Scientist: The Wonder of Observing the Natural World'
+author: joey petosa
+date: '2021-06-10'
+cover:
+  image: "https://assets.joeypetosa.com/portfolio/banner_th_grandin.png"
+  alt: "ISB, Town Hall Seattle, The Outdoor Scientist"
+slug: the-outdoor-scientist-the-wonder-of-observing-the-natural-world
+categories:
+  - Virtual Events
+tags:
+  - Event Production
+  - Events
+  - Livestream
+  - ISB
+  - Town Hall
+  - Zoom
+---
+
+## About:  
+Dr. Temple Grandin was the keynote speaker in this iteration of the ISB-Town 
+Hall Seattle Science Series. Grandin discussed her book – “The Outdoor 
+Scientist: The Wonder of Observing the Natural World” – and a variety of other 
+topics. ISB President Dr. Jim Heath joined at the end of her talk for a wide 
+ranging Q&A discussion. More about the event and program here: 
+[Dr. Temple Grandin and the Importance of Getting Kids Outside](https://isbscience.org/news/2021/06/11/dr-temple-grandin-and-the-importance-of-getting-kids-outside/).  
+
+ISB and Town Hall Seattle have put on a number of virtual events focusing on a 
+range of important scientific issues. As Event Manager, my responsibilities
+included talent booking, logistical production, speaker advancement and 
+livestream execution.  
+
+Video recording of the event can be viewed here:  
+
+
+<div id="videocontainer">
+  <div class="container">
+<iframe src="https://www.youtube-nocookie.com/embed/vkYZFzRSXsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
+  </div>
+</div>
