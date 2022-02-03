@@ -4,7 +4,7 @@ author: "joey petosa"
 description: Bellabeat Case Study with R by Joey Petosa
 date: '2022-01-31'
 cover: 
-  image: "https://assets.joeypetosa.com/portfolio/banner_bellabeat_cs.png"
+  image: "https://assets.joeypetosa.com/portfolio/banner_cs_bellabeat.png"
   alt: "Bellabeat Case Study with R by Joey Petosa"
 slug: bellabeat-case-study
 categories: ["Data Analytics"]

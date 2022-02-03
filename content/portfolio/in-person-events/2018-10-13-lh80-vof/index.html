@@ -4,7 +4,7 @@ author: "joey petosa"
 date: "2018-10-13"
 description: "A symposium honoring Lee Hood on his 80th birthday"
 cover:
-  image: "https://assets.joeypetosa.com/portfolio/banner_lh80.png"
+  image: "https://assets.joeypetosa.com/portfolio/banner_event_lh80.png"
   caption: "Merck President Roger Perlmutter (left) and Dr. Lee Hood"
   alt: "LH80"
 slug: lh80

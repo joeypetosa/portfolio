@@ -3,7 +3,7 @@ title: The promise of the human microbiome
 author: joey petosa
 date: '2021-11-04'
 cover:
-  image: "https://assets.joeypetosa.com/portfolio/banner_th_m.png"
+  image: "https://assets.joeypetosa.com/portfolio/banner_th_microbiome.png"
   alt: "ISB, Town Hall Seattle, Microbiome"
 slug: the-promise-of-the-human-microbiome
 categories:
