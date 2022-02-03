@@ -12,7 +12,7 @@ tags: ["events", "ISB", "Tableau", "data visualization"]
 series: ["Portfolio", "Virtual Events"]
 ---
 
-## About  
+## About:  
 As Event Manager and Technical Director for ISB's Virtual Microbiome Series, I 
 led the event's core organizing team, ran production operations, and was 
 responsible for overall project management throughout the event's lifecycle.  

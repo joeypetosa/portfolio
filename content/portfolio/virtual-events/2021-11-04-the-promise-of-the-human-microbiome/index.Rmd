@@ -1,0 +1,37 @@
+---
+title: The promise of the human microbiome
+author: joey petosa
+date: '2021-11-04'
+cover:
+  image: "https://assets.joeypetosa.com/portfolio/banner_th_m.png"
+  alt: "ISB, Town Hall Seattle, Microbiome"
+slug: the-promise-of-the-human-microbiome
+categories:
+  - Virtual Events
+tags:
+  - Event Production
+  - ISB
+  - Microbiome
+  - Town Hall
+  - Zoom
+  - Livestream
+---
+
+## About:  
+The public extension of [ISB's 2021 Virtual Microbiome Series](https://www.joeypetosa.com/portfolio/virtual-events/microbiome-series/). 
+The goal of this event was to raise awareness about an exciting field of 
+research. More about the event and program here: [Dr. Jack Gilbert on the State of the Microbiome Field](https://isbscience.org/news/2021/11/16/dr-jack-gilbert-on-the-state-of-the-microbiome/).  
+
+ISB and Town Hall Seattle have put on a number of virtual events focusing on a 
+range of important scientific issues. As Event Manager, my responsibilities
+included talent booking, logistical production, speaker advancement and 
+livestream execution.  
+
+Video recording of the event can be viewed here:  
+
+
+<div id="videocontainer">
+  <div class="container">
+<iframe src="https://www.youtube-nocookie.com/embed/3sSPX2M2Uoc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe> 
+  </div>
+</div>
