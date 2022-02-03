@@ -2,7 +2,7 @@
 title: "About"
 url: /about/
 cover:
-  image: "https://assets.joeypetosa.com/banner_jp.png"
+  image: "https://assets.joeypetosa.com/banner_about.png"
   alt: "me"
 ---
 
