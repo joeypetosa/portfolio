@@ -131,3 +131,7 @@ services:
       disableInlineCSS: true
   twitter:
       disableInlineCSS: true
+      
+cover:
+  thumbnailInList: true
+  
