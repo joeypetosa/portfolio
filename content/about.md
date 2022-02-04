@@ -4,6 +4,7 @@ url: /about/
 cover:
   image: "https://assets.joeypetosa.com/banner_about.png"
   alt: "me"
+disableAnchoredHeadings: true
 ---
 
 # Hi, how are you?  
