@@ -1,15 +1,15 @@
 ---
 title: "ISB Virtual Microbiome Series"
-author: "joey petosa"
-description: Virtual event series
-date: "2021-10-13"
+description: "event strategy, organizational leadership, data analytics"
 cover:
   image: "https://assets.joeypetosa.com/portfolio/banner_event_microbiome.png"
   alt: "Microbiome Series"
 slug: microbiome-series
 categories: ["Virtual Events"]
-tags: ["Events", "ISB", "Tableau", "Data Visualization", "Event Production", "Livestream", "Data Analytics"]
-series: ["Portfolio", "Virtual Events"]
+tags: ["Events", "ISB", "Tableau", "Data Visualization", "Event Production", "Livestream", "Data Analytics", "Data Analysis"]
+series:
+  - Portfolio
+  - Virtual Events
 ---
 
 ## About:  

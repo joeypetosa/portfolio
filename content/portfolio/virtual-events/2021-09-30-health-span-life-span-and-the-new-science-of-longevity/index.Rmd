@@ -1,7 +1,7 @@
 ---
 title: Health Span, Life Span, and the New Science of Longevity
-author: joey petosa
 date: '2021-09-30'
+description: "event production, project management, livestream execution"
 cover:
   image: "https://assets.joeypetosa.com/portfolio/banner_th_aging.png"
   alt: "ISB, Town Hall Seattle, Aging"
@@ -15,6 +15,9 @@ tags:
   - ISB
   - Town Hall
   - Zoom
+series:
+  - Portfolio
+  - Virtual Events
 ---
 
 ## About:  
