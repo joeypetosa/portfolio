@@ -1,8 +1,7 @@
 ---
 title: "Bellabeat Case Study with R"
-author: "joey petosa"
 description: data analytics, R programming, data visualization
-date: '2022-01-31'
+weight: 1
 cover: 
   image: "https://assets.joeypetosa.com/portfolio/banner_cs_bellabeat.png"
   alt: "Bellabeat Case Study with R by Joey Petosa"
@@ -16,6 +15,6 @@ series: ["Portfolio", "Data Analytics"]
   
 **Joey's Case Study Website:** [https://joeypetosa.github.io/bellabeat_cs/](https://joeypetosa.github.io/bellabeat_cs/)  
 
-* [Google Slides; requires online access](https://docs.google.com/presentation/d/1iUSOOkS2ltHPzK16cE9teWgOwfBGd1UAC1KaZ_ucew4/present?slide=id.p)  
+* [Google Slides](https://docs.google.com/presentation/d/1iUSOOkS2ltHPzK16cE9teWgOwfBGd1UAC1KaZ_ucew4/present?slide=id.p)  
 * [GitHub Repository](https://github.com/joeypetosa/bellabeat_cs)  
 
