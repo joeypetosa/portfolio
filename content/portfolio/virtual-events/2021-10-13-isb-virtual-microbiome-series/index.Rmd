@@ -1,6 +1,7 @@
 ---
 title: "ISB Virtual Microbiome Series"
 description: "event strategy, organizational leadership, data analytics"
+weight: 1
 cover:
   image: "https://assets.joeypetosa.com/portfolio/banner_event_microbiome.png"
   alt: "Microbiome Series"
