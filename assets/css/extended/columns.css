@@ -47,6 +47,11 @@ p.card-color {
   background-color: #ffffff;
   color: rgb(30, 30, 30);
   border-radius: var(--radius);
+  transition: transform 0.1s;
+}
+
+.card:active {
+  transform: scale(0.96);
 }
 
 /* Figure scaling */
@@ -57,11 +62,12 @@ p.card-color {
 
 /* Card links */
 #columncards .card-link {
-    position: absolute;
+    position: relative;
     left: 0;
     right: 0;
     top: 0;
     bottom: 0;
+    display: block;
 }
 
 /* Responsive columns - one column layout (vertical) on small screens */
