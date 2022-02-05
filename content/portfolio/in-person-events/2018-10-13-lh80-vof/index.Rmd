@@ -1,6 +1,8 @@
 ---
 title: "Visions of the Future"
-date: "2018-10-13"
+author: ''
+date: ''
+weight: 3
 description: "event production, project management, large scale"
 cover:
   image: "https://assets.joeypetosa.com/portfolio/banner_event_lh80.png"
@@ -14,7 +16,7 @@ series:
   - In-Person Events
 ---
 
-## About  
+## About:    
 A symposium and party held in 2018 in honor of Dr. Lee Hood’s 80th birthday. [Dr. Hood](https://isbscience.org/bio/leroy-hood/), a pioneer in the field of 
 biotechnology and recipient of the National Medal of Science in 2011, is 
 co-founder and chief strategy officer of ISB. 

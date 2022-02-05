@@ -1,0 +1,46 @@
+---
+title: 'ISB Course: Systems Biology of Disease'
+author: ''
+date: ''
+weight: 1
+description: "technical production, project management, curriculum development, intro to R"
+cover:
+  image: "https://assets.joeypetosa.com/portfolio/banner_isb_sc.png"
+  alt: "ISB, Systems Biology of Disease, Course"
+slug: isb-course-systems-biology-of-disease
+categories:
+  - In-Person Events
+tags:
+  - Events
+  - Course
+  - ISB
+  - Event Production
+  - Project Management
+  - Computational Biology
+  - Data Analytics
+---
+
+## About:
+I have been the Event Manager for ISB's annual Systems Biology of Disease Summer 
+Course since 2014, driving event strategy, technical production, and execution 
+of the weeklong event.  
+
+>**Interesting note:** the use of R programming in this course is what sparked my 
+interest in Data Analytics.
+
+The goal of the ISB summer course  is to introduce the core concepts of systems 
+biology and their application to systems biomedicine. Participants gain 
+experience using systems biology approaches that allow them to carry out 
+personalized medicine. Participants include graduate students, postdoctoral 
+fellows, biomedical researchers, educators and principal investigators who have 
+an interest in systems biomedicine.  
+
+Our course instructors provided daily hands-on training that walked students 
+through R code. These computational sessions focused on unsupervised machine 
+learning, supervised machine learning, single-cell analysis and gene regulatory 
+network inference.  
+
+My responsibilities have included project and budget management, event timeline 
+stewardship, registration management, speaker advance, vendor selection and 
+negotiation, attendee and staff management, event marketing and post event 
+evaluation and reporting.  

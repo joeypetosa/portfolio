@@ -1,2 +1,2 @@
-# portfolio
-Online portfolio built with blogdown
+# joey's website
+Personal website and online portfolio built with blogdown
