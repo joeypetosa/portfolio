@@ -62,12 +62,11 @@ p.card-color {
 
 /* Card links */
 #columncards .card-link {
-    position: relative;
+    position: absolute;
     left: 0;
     right: 0;
     top: 0;
     bottom: 0;
-    display: block;
 }
 
 /* Responsive columns - one column layout (vertical) on small screens */
