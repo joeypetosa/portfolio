@@ -1,0 +1,57 @@
+---
+title: Transferable Skills
+author: ''
+date: ''
+weight: 4
+description: "organizational expertise, creative problem-solving, resourcefulness, resilience"
+cover:
+  image: "https://assets.joeypetosa.com/portfolio/banner_ep_wicked.png"
+  alt: "Event Production, Galas, Festivals, Stage Manager, AutoCAD"
+slug: transferable-skills
+categories:
+  - Skills
+tags:
+  - Events
+  - Event Production
+  - Project Management
+  - Organizational Skill
+  - Detail-Oriented
+  - Creative Problem-solving
+  - Resilience
+  - Work Experience
+  - Skills
+  - Transferable Skills
+output:
+  blogdown::html_page:
+      toc: TRUE
+---
+
+## Event Production: Lessons from a Wicked Learning Environment  
+I have spent the last 10 years living and breathing event production, which has in turn provided me with innumerable opportunities for professional growth and skill development. From organizing nonprofit, corporate, and government events, to creating immersive programs, producing multi-faceted shows, and working within cross-functional teams from a variety of backgrounds, I have gained invaluable work experience in demanding environments that are as complex as they are fast-paced.  
+
+**Event production is a wicked learning environment.** It's a high pressure, high visibility business where the unpredictability of your work is inevitable. There are ever-evolving client requests, unique venue requirements, contradictory stakeholder objectives and constant changes to live programs and schedules. You are dealt unclear or incomplete information that must be interpreted, evaluated, discussed and then acted upon. In order to operate in this rapidly changing, wicked learning environment, I’ve developed certain skills that can be applied to any domain: leadership, collaboration, problem solving, innovation, adaptability and agility.
+
+## Transferable Skills  
+
+### 1) Leadership, Collaboration
+#### Taking initiative and working towards common goals  
+
+As the Events Manager at Institute for Systems Biology (ISB) since 2014, I have been responsible for driving overall logistics, budgeting, execution, and post analysis of all ISB’s signature events. The signature events include annual symposia, speaker series, courses, retreats, fundraisers, holiday parties and more. It is my responsibility to direct and manage these events, from conception to completion. A recent project that demonstrates my organizational leadership and capacity for collaboration is [ISB's Virtual Microbiome Series](https://www.joeypetosa.com/portfolio/virtual-events/microbiome-series/).  
+
+I take pride in being someone that my colleagues can rely upon in high stress, high stakes situations. I am a doer and I love working with doers.  
+
+### 2) Problem Solving, Innovation
+#### Building technical solutions to scale and sustain program delivery
+
+As the size, complexity, and number of events I manage has increased, I’ve had to research innovative strategies and tools to successfully produce them at scale. One example of this is learning how to design and draft in AutoCAD, a computer-aided design (CAD) and drafting software application that is normally used by architects, engineers, and construction professionals. As an event professional, AutoCAD gave me the ability to build room layouts and ground plans for all types of events in a variety of venues. The CAD file serves as the blueprint for an event– a precise 2D drawing of the venue that indicates the location and setup of everything related to the event. That could include AV, stage, power, decor, design elements, food and beverage, chairs, tables, egress paths and much more.  
+
+The ability to demonstrate what is and isn't possible in the space meant faster decision-making and planning ahead of time. The groundplan was a means to communicate important info between clients, vendors, staff and other key stakeholders. For me, this has been game-changing. It has given me the time and ability to solve problems more efficiently than ever before.  
+
+### 3) Adaptability, Agility
+#### Ability to successfully navigate complexity and ambiguity  
+
+I've never been one to shy away from a challenge. As a production intern at Bumbershoot Music Festival, I helped back a 53' semi-truck down the hole at Key Arena (now Climate Pledge) without any prior experience. My first time fulfilling the role of Stage Manager-- the person who ensures everything runs smoothly on stage during a live event --was at a formal gala with nearly 1,000 people in attendance. I've flown all over the US to organize and produce resilience retreats for service members, pre- and post-deployment. When the COVID-19 pandemic hit in 2020, I had to morph our planned in-person events into virtual ones, which required becoming an overnight expert in streaming platforms and technologies in order to execute all aspects of a virtual event.  
+
+These are just a few examples of how event work has instilled in me the ability to quickly adjust to new situations. I am comfortable entering unfamiliar environments and facing new challenges. By pushing myself outside of my comfort zone, I've been rewarded with new knowledge and experiences that have helped me grow throughout my career. To quote Professor Herminia Ibarra of the London Business School: “I know who I am when I see what I do.”  
+
+
