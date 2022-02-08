@@ -2,13 +2,25 @@
 title: "Bellabeat Case Study with R"
 description: data analytics, R programming, data visualization
 weight: 1
+slug: bellabeat-case-study
+categories:
+  - Data Analytics
+tags:
+  - Data Analytics
+  - Case Study
+  - R
+  - RStudio
+  - GitHub
+  - Data Visualization
+  - R Programming
+  - Google Workspace
+series:
+  - Portfolio
+  - Data Analytics
 cover: 
   image: "https://assets.joeypetosa.com/portfolio/banner_cs_bellabeat.png"
   alt: "Bellabeat Case Study with R by Joey Petosa"
-slug: bellabeat-case-study
-categories: ["Data Analytics"]
-tags: ["R", "R Studio", "GitHub", "Bellabeat", "Data Visualization", "R Programming", "Data Analysis"]
-series: ["Portfolio", "Data Analytics"]
+
 ---
 
 [Bellabeat](https://bellabeat.com/about/) is the go-to wellness brand for women with an ecosystem of products and services that focuses on women’s health. They empower women with knowledge about their own health and habits by collecting data on activity, sleep, stress, and reproductive health. In this case study, I analyze smart device fitness data that could help unlock new growth opportunities for the company.

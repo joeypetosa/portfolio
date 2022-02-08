@@ -1,23 +1,22 @@
 ---
 title: Why We Age—And Why We Don’t Have To
 date: '2021-04-15'
-description: "event production, project management, livestream execution"
-cover:
-  image: "https://assets.joeypetosa.com/portfolio/banner_th_aging_sinclair.png"
-  alt: "ISB, Town Hall Seattle, Aging"
 slug: aging-sinclair
 categories:
   - Virtual Events
 tags:
-  - Event Production
-  - Events
-  - Livestream
   - ISB
-  - Town Hall
+  - Event Production
+  - Livestream
+  - Project Management
   - Zoom
 series:
   - Portfolio
   - Virtual Events
+description: "event production, project management, livestream execution"
+cover:
+  image: "https://assets.joeypetosa.com/portfolio/banner_th_aging_sinclair.png"
+  alt: "ISB, Town Hall Seattle, Aging"
 ---
 
 ## About:  

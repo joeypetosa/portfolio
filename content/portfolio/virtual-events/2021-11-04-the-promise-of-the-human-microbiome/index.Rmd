@@ -1,24 +1,22 @@
 ---
 title: The promise of the human microbiome
 date: '2021-11-04'
-description: "event production, project management, livestream execution"
-cover:
-  image: "https://assets.joeypetosa.com/portfolio/banner_th_microbiome.png"
-  alt: "ISB, Town Hall Seattle, Microbiome"
 slug: the-promise-of-the-human-microbiome
 categories:
   - Virtual Events
 tags:
-  - Event Production
-  - Events
-  - Livestream
   - ISB
-  - Town Hall
+  - Event Production
+  - Livestream
+  - Project Management
   - Zoom
-  - Microbiome
 series:
   - Portfolio
   - Virtual Events
+description: "event production, project management, livestream execution"
+cover:
+  image: "https://assets.joeypetosa.com/portfolio/banner_th_microbiome.png"
+  alt: "ISB, Town Hall Seattle, Microbiome"
 ---
 
 ## About:  

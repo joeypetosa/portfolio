@@ -3,17 +3,22 @@ title: "Visions of the Future"
 author: ''
 date: ''
 weight: 3
+slug: lh80
+categories:
+  - In-Person Events
+tags:
+  - ISB
+  - Event Production
+  - Project Management
+  - Large Scale
+series:
+  - Portfolio
+  - In-Person Events
 description: "event production, project management, large scale"
 cover:
   image: "https://assets.joeypetosa.com/portfolio/banner_event_lh80.png"
   caption: "Merck President Roger Perlmutter (left) and Dr. Lee Hood"
   alt: "LH80"
-slug: lh80
-categories: ["In-Person Events"]
-tags: ["Events", "symposium", "ISB", "Lee Hood", "Chihuly", "Event Production"]
-series:
-  - Portfolio
-  - In-Person Events
 ---
 
 ## About:    

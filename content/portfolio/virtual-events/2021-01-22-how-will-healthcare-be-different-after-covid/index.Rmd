@@ -1,23 +1,22 @@
 ---
 title: How Will Healthcare Be Different After COVID?
 date: '2021-01-22'
-description: "event production, project management, livestream execution"
-cover:
-  image: "https://assets.joeypetosa.com/portfolio/banner_th_hochman.png"
-  alt: "ISB, Town Hall Seattle, Healthcare Post-COVID"
 slug: How Will Healthcare Be Different After COVID
 categories:
   - Virtual Events
 tags:
-  - Event Production
-  - Events
-  - Livestream
   - ISB
-  - Town Hall
+  - Event Production
+  - Livestream
+  - Project Management
   - Zoom
 series:
   - Portfolio
   - Virtual Events
+description: "event production, project management, livestream execution"
+cover:
+  image: "https://assets.joeypetosa.com/portfolio/banner_th_hochman.png"
+  alt: "ISB, Town Hall Seattle, Healthcare Post-COVID"
 ---
 
 ## About:  
