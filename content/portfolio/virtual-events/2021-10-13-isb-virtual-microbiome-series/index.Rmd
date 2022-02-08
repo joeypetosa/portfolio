@@ -7,6 +7,7 @@ tags:
   - Event Production
   - Livestream
   - Project Management
+  - Organizational Leadership
   - Zoom
   - Tableau
   - Data Visualization
