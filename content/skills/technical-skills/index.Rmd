@@ -24,15 +24,17 @@ Learning and applying new technical skills has been a major priority throughout 
 
 My technical skills include: 
 
-| **Data Analytics** | **Website Building** | **Event Production** | **Creative**         | **Productivity** |
-| ------------------ | -------------------- | -------------------- | -------------------- | ---------------- |
-| Data cleaning      | R Markdown           | AutoCAD              | Final Cut            | Google Workspace |
-| Data analysis      | Blogdown             | Zoom Meetings        | Adobe Creative Cloud | Microsoft Office |
-| Data Visualization | Hugo                 | Zoom Webinar         | YouTube              | Slack            |
-| Spreadsheets       | GitHub               | PowerPoint           | YouTube Livestream   |                  |
-| SQL, Tableau,      | AWS                  | Blackmagic Cameras   |                      |                  |
-| R, RStudio,        | Netlify              | Production Switchers |                      |                  |
-| RStudio Cloud,     |                      | Audiovisual          |                      |                  |
-| Tidyverse          |                      |                      |                      |                  |
+| **Data Analytics**                              | **Website Building** | **Event Production** | **Creative**         | **Productivity** |
+| ----------------------------------------------- | -------------------- | -------------------- | -------------------- | ---------------- |
+| Data-driven decision making                     | Blogdown             | AutoCAD              | Final Cut            | Google Workspace |
+| Data analysis                                   | GitHub               | Zoom Meetings        | Adobe Creative Cloud | Microsoft Office |
+| Data cleaning                                   | Markdown, R Markdown | Zoom Webinar         | YouTube              | Slack            |
+| Data visualization                              | Hugo                 | Audiovisual          | YouTube Livestream   |                  |
+| Calculation and analysis in SQL and spreadsheets| AWS                  | Production Switchers |                      |                  |
+| R programming, R, RStudio and RStudio Cloud     | Netlify              |                      |                      |                  |      
+| Tableau                                         |                      |                      |                      |                  | 
+| Effective presentations                         |                      |                      |                      |                  |
 
-  
+
+
+, ,  
