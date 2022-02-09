@@ -2,7 +2,7 @@
 title: Technical Skills
 author: ''
 date: ''
-weight: 2
+weight: 1
 slug: technical-skills
 categories:
   - Skills
