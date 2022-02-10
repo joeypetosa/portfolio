@@ -73,3 +73,41 @@ how successful this series was in 2021.
 </div>
 
 
+## Viral on YouTube  
+Before October 13, 2021, 522 videos had been posted to ISB’s YouTube channel 
+since the channel's inception in 2009. Those 522 videos had amassed 334,000 
+views total, which is an **average of 640 views per video**.
+
+On October 13, 2021, we livestreamed day one of this series on YouTube. The main 
+platform where registered attendees viewed the program was Zoom Webinar. 
+However, I had decided to setup the YouTube livestream in case our audience had 
+any issues connecting to Zoom. A few days later, the views for this video 
+began exponentially increasing unlike anything the channel had seen before. In 
+nine days, our channel's views were up 872% due to this video. The daily channel 
+views went from 340 to about 3,300. The video eclipsed 100,000 views within the 
+first 18 days of posting. It's now sitting at **139,000 views** at the time of 
+this writing:
+
+<div id="videocontainer">
+  <div class="container">
+<iframe src="https://www.youtube-nocookie.com/embed/E4NaSMckQe4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
+  </div>
+</div>
+<br>
+Some highlights from YouTube analytics:  
+
+* **29% of ISB’s lifetime views** are from this video  
+* **57% of ISB’s 2021 views** are from this video
+* **8.7 million impressions** - the number of times this video's thumbnail has 
+been shown to viewers on YouTube
+* People from **86 countries** have viewed this video, with 51% of all views 
+coming from within the US
+* **257 new subscribers** from this single video
+* **32,900 hours** of total watch time
+
+
+
+
+
+
+
