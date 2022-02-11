@@ -52,7 +52,7 @@ params:
     android_chrome_192x192:  "https://assets.joeypetosa.com/android-chrome-192x192.png"
     android_chrome_512x512:  "https://assets.joeypetosa.com/android-chrome-512x512.png"
   label:
-    icon: "https://assets.joeypetosa.com/apple-touch-icon-label.png"
+    icon: "https://s3.us-west-1.amazonaws.com/joeypetosa.com/apple-touch-icon-label.png"
     iconHeight: 35
   ShowToc: false
   TocOpen: false
@@ -74,7 +74,7 @@ params:
     enabled: true
     title: "joey petosa"
     subtitle: "event manager, data analyst, footballer, lifelong learner"
-    imageUrl: "https://assets.joeypetosa.com/jp_profile.png"
+    imageUrl: "https://s3.us-west-1.amazonaws.com/joeypetosa.com/jp_profile.png"
     imageTitle: "me" # optional
 
   socialIcons:
