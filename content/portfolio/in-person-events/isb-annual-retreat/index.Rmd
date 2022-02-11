@@ -17,7 +17,7 @@ series:
   - In-Person Events
 description: "event production, organizational leadership, project management"
 cover:
-  image: "https://assets.joeypetosa.com/portfolio/banner_isb_retreat.png"
+  image: "https://s3.us-west-1.amazonaws.com/joeypetosa.com/portfolio/banner_isb_retreat.png"
   alt: "ISB, Sleeping Lady Resort, Annual Retreat"
 ---
 
