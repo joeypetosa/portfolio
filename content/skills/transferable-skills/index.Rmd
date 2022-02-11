@@ -5,7 +5,7 @@ date: ''
 weight: 2
 description: "organizational expertise, creative problem-solving, resourcefulness, resilience"
 cover:
-  image: "https://assets.joeypetosa.com/portfolio/banner_ep_wicked.png"
+  image: "https://s3.us-west-1.amazonaws.com/joeypetosa.com/portfolio/banner_ep_wicked.png"
   alt: "Event Production, Galas, Festivals, Stage Manager, AutoCAD"
 slug: transferable-skills
 categories:

@@ -45,12 +45,12 @@ params:
   defaultTheme: auto
   disableThemeToggle: false
   assets:
-    favicon: "https://assets.joeypetosa.com/favicon.ico"
-    favicon16x16:  "https://assets.joeypetosa.com/favicon-16x16.png"
-    favicon32x32:  "https://assets.joeypetosa.com/favicon-32x32.png"
-    apple_touch_icon:  "https://assets.joeypetosa.com/apple-touch-icon.png"
-    android_chrome_192x192:  "https://assets.joeypetosa.com/android-chrome-192x192.png"
-    android_chrome_512x512:  "https://assets.joeypetosa.com/android-chrome-512x512.png"
+    favicon: "https://s3.us-west-1.amazonaws.com/joeypetosa.com/favicon.ico"
+    favicon16x16:  "https://s3.us-west-1.amazonaws.com/joeypetosa.com/favicon-16x16.png"
+    favicon32x32:  "https://s3.us-west-1.amazonaws.com/joeypetosa.com/favicon-32x32.png"
+    apple_touch_icon:  "https://s3.us-west-1.amazonaws.com/joeypetosa.com/apple-touch-icon.png"
+    android_chrome_192x192:  "https://s3.us-west-1.amazonaws.com/joeypetosa.com/android-chrome-192x192.png"
+    android_chrome_512x512:  "https://s3.us-west-1.amazonaws.com/joeypetosa.com/android-chrome-512x512.png"
   label:
     icon: "https://s3.us-west-1.amazonaws.com/joeypetosa.com/apple-touch-icon-label.png"
     iconHeight: 35

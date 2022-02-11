@@ -19,7 +19,7 @@ series:
 description: "event strategy, organizational leadership, data analytics"
 weight: 1
 cover:
-  image: "https://assets.joeypetosa.com/portfolio/banner_isb_microbiome.png"
+  image: "https://s3.us-west-1.amazonaws.com/joeypetosa.com/portfolio/banner_isb_microbiome.png"
   alt: "Microbiome Series"
 ---
 
