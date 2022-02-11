@@ -18,7 +18,7 @@ series:
   - Portfolio
   - Data Analytics
 cover: 
-  image: "https://assets.joeypetosa.com/portfolio/banner_cs_bellabeat.png"
+  image: "https://s3.us-west-1.amazonaws.com/joeypetosa.com/portfolio/banner_cs_bellabeat.png"
   alt: "Bellabeat Case Study with R by Joey Petosa"
 
 ---
