@@ -2,7 +2,7 @@
 title: "About"
 url: /about/
 cover:
-  image: "https://assets.joeypetosa.com/banner_about.png"
+  image: "https://s3.us-west-1.amazonaws.com/joeypetosa.com/banner_about.png"
   alt: "me"
 disableAnchoredHeadings: true
 ---
