@@ -1,0 +1,37 @@
+---
+title: The New Science of the Immune System
+author: ''
+date: '2022-02-10'
+slug: the-new-science-of-the-immune-system
+categories:
+  - Virtual Events
+tags:
+  - ISB
+  - Event Production
+  - Livestream
+  - Project Management
+  - Zoom
+description: "event production, project management, livestream execution"
+cover:
+  image: "https://s3.us-west-1.amazonaws.com/joeypetosa.com/portfolio/banner_th_richtel.png"
+  alt: "ISB, Town Hall Seattle, Matt Richtel, Immune System"
+---
+
+## About:  
+ISB President and Professor Dr. Jim Heath joined bestselling author and Pulitzer 
+Prize winning New York Times reporter Matt Richtel in a virtual fireside chat. 
+Richtel’s most recent nonfiction book ahead of this event was “An Elegant 
+Defense: The Extraordinary New Science of the Immune System.”  
+
+ISB and Town Hall Seattle have put on a number of virtual events focusing on a 
+range of important scientific issues. As Event Manager, my responsibilities
+included talent booking, logistical production, speaker advancement and 
+livestream execution.  
+
+Video recording of the event can be viewed here:  
+
+<div id="videocontainer">
+  <div class="container">
+<iframe src="https://www.youtube-nocookie.com/embed/vj4enHfeMf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
+  </div>
+</div>
