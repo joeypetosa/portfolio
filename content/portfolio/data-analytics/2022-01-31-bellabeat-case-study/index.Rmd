@@ -1,7 +1,7 @@
 ---
 title: "Bellabeat Case Study with R"
 description: data analytics, R programming, data visualization
-weight: 1
+weight: 2
 slug: bellabeat-case-study
 categories:
   - Data Analytics
