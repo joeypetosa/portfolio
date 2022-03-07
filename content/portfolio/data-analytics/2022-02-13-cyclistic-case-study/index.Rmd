@@ -32,7 +32,7 @@ The main tools I use are spreadsheets, SQL and Tableau. Here are the highlights:
 
 * <a href="https://docs.google.com/presentation/d/1UMcXHCZ_l0FzARZjquN1WIxwXBYqCKlVGRBrkmcf4jo/present?slide=id.p" target="_blank">Slides: Where Rubber Meets Road in Converting Casual Riders to Cyclistic Members</a>  
 
-* <a href="https://github.com/joeypetosa/cyclistic_cs" target="_blank">GitHub: Cyclistic Case Study Repository</a>  
+* <a href="https://github.com/joeypetosa/cyclistic_cs" target="_blank">GitHub: Cyclistic Case Study Repository</a> 
 
 A more in-depth breakdown of the case study scenario is included below, followed 
 by my full report.  

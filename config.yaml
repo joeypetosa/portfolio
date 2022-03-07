@@ -82,6 +82,8 @@ params:
       url: "https://www.linkedin.com/in/joey-petosa/"
     - name: "Github"
       url: "https://github.com/joeypetosa/"
+    - name: "tableau"
+      url: "https://public.tableau.com/app/profile/joe.petosa"  
     - name: "Goodreads"
       url: "https://www.goodreads.com/user/show/93916801-joey-petosa"
     - name: "Spotify"
