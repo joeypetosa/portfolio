@@ -1,3 +1,15 @@
+<script src="https://www.google.com/recaptcha/enterprise.js?render=6LdZkEEfAAAAAAcar0DuDn5GKk1Z7k71AC76ALuB"></script>
+<script>
+    grecaptcha.enterprise.ready(function() {
+        grecaptcha.enterprise.execute('6LdZkEEfAAAAAAcar0DuDn5GKk1Z7k71AC76ALuB', {action: 'homepage'}).then(function(token) {
+            document.getElementById('captchaResponse').value = token;
+            // IMPORTANT: The 'token' that results from execute is an encrypted response sent by
+            // reCAPTCHA Enterprise to the end user's browser.
+            // This token must be validated by creating an assessment.
+            // See https://cloud.google.com/recaptcha-enterprise/docs/create-assessment
+        });
+    });
+</script>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
