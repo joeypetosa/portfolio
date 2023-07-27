@@ -67,13 +67,13 @@ params:
     titleSeparator: " | "
   
   homeInfoParams:
-    Content: "event manager, data analyst, footballer"
+    Content: "data analyst, footballer, lifelong learner"
     title: "joey petosa"
   
   profileMode:
     enabled: true
     title: "joey petosa"
-    subtitle: "event manager, data analyst, footballer, lifelong learner"
+    subtitle: "data analyst, footballer, lifelong learner"
     imageUrl: "https://s3.us-west-1.amazonaws.com/joeypetosa.com/jp_profile.png"
     imageTitle: "me" # optional
 

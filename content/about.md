@@ -9,4 +9,4 @@ disableAnchoredHeadings: true
 
 # Hi, how are you?  
 
-My name is joey. I am an event manager and data analyst. I enjoy solving problems, computing, collaboration, non-fiction books, soccer, music, lifelong learning and more. I am a doer and I love working with doers. Pass me the ball.  
+My name is joey. I am a data analyst with a background in event management, marketing and customer acquisition. I enjoy solving problems, computing, collaboration, non-fiction books, soccer, music, lifelong learning and more. I am a doer and I love working with doers. So let's dive in and get things done, together.  
